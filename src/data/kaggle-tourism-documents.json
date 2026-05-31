@@ -1,0 +1,2927 @@
+[
+  {
+    "id": "kaggle-tourism-delhi-delhi-india-gate",
+    "city": "Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "type": "tourism",
+    "title": "India Gate Tourism Guide",
+    "content": "India Gate is a War Memorial in Delhi, Delhi. Its significance is Historical. Best time to visit is Evening. Suggested visit duration in hours is 0.5. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-delhi-delhi-humayun-s-tomb",
+    "city": "Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "type": "tourism",
+    "title": "Humayun's Tomb Tourism Guide",
+    "content": "Humayun's Tomb is a Tomb in Delhi, Delhi. Its significance is Historical. Best time to visit is Afternoon. Suggested visit duration in hours is 2.0. Google review rating is 4.5. Entrance fee in INR is 30."
+  },
+  {
+    "id": "kaggle-tourism-delhi-delhi-akshardham-temple",
+    "city": "Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "type": "tourism",
+    "title": "Akshardham Temple Tourism Guide",
+    "content": "Akshardham Temple is a Temple in Delhi, Delhi. Its significance is Religious. Best time to visit is Afternoon. Suggested visit duration in hours is 5.0. Google review rating is 4.6. Entrance fee in INR is 60."
+  },
+  {
+    "id": "kaggle-tourism-delhi-delhi-waste-to-wonder-park",
+    "city": "Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "type": "tourism",
+    "title": "Waste to Wonder Park Tourism Guide",
+    "content": "Waste to Wonder Park is a Theme Park in Delhi, Delhi. Its significance is Environmental. Best time to visit is Evening. Suggested visit duration in hours is 2.0. Google review rating is 4.1. Entrance fee in INR is 50. Weekly off is Monday."
+  },
+  {
+    "id": "kaggle-tourism-delhi-delhi-jantar-mantar",
+    "city": "Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "type": "tourism",
+    "title": "Jantar Mantar Tourism Guide",
+    "content": "Jantar Mantar is a Observatory in Delhi, Delhi. Its significance is Scientific. Best time to visit is Morning. Suggested visit duration in hours is 2.0. Google review rating is 4.2. Entrance fee in INR is 15."
+  },
+  {
+    "id": "kaggle-tourism-delhi-delhi-chandni-chowk",
+    "city": "Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "type": "tourism",
+    "title": "Chandni Chowk Tourism Guide",
+    "content": "Chandni Chowk is a Market in Delhi, Delhi. Its significance is Market. Best time to visit is Afternoon. Suggested visit duration in hours is 3.0. Google review rating is 4.2. Entrance fee in INR is 0. Weekly off is Sunday."
+  },
+  {
+    "id": "kaggle-tourism-delhi-delhi-lotus-temple",
+    "city": "Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "type": "tourism",
+    "title": "Lotus Temple Tourism Guide",
+    "content": "Lotus Temple is a Temple in Delhi, Delhi. Its significance is Religious. Best time to visit is Evening. Suggested visit duration in hours is 1.0. Google review rating is 4.5. Entrance fee in INR is 0. Weekly off is Monday."
+  },
+  {
+    "id": "kaggle-tourism-delhi-delhi-red-fort",
+    "city": "Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "type": "tourism",
+    "title": "Red Fort Tourism Guide",
+    "content": "Red Fort is a Fort in Delhi, Delhi. Its significance is Historical. Best time to visit is Afternoon. Suggested visit duration in hours is 2.0. Google review rating is 4.5. Entrance fee in INR is 35."
+  },
+  {
+    "id": "kaggle-tourism-delhi-delhi-agrasen-ki-baoli",
+    "city": "Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "type": "tourism",
+    "title": "Agrasen ki Baoli Tourism Guide",
+    "content": "Agrasen ki Baoli is a Stepwell in Delhi, Delhi. Its significance is Historical. Best time to visit is Afternoon. Suggested visit duration in hours is 1.0. Google review rating is 4.2. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-delhi-delhi-sunder-nursery",
+    "city": "Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "type": "tourism",
+    "title": "Sunder Nursery Tourism Guide",
+    "content": "Sunder Nursery is a Park in Delhi, Delhi. Its significance is Botanical. Best time to visit is Afternoon. Suggested visit duration in hours is 2.0. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-delhi-delhi-garden-of-five-senses",
+    "city": "Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "type": "tourism",
+    "title": "Garden of Five Senses Tourism Guide",
+    "content": "Garden of Five Senses is a Park in Delhi, Delhi. Its significance is Botanical. Best time to visit is Morning. Suggested visit duration in hours is 2.0. Google review rating is 4.1. Entrance fee in INR is 35."
+  },
+  {
+    "id": "kaggle-tourism-delhi-delhi-lodhi-garden",
+    "city": "Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "type": "tourism",
+    "title": "Lodhi Garden Tourism Guide",
+    "content": "Lodhi Garden is a Park in Delhi, Delhi. Its significance is Botanical. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-delhi-delhi-national-gallery-of-modern-art",
+    "city": "Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "type": "tourism",
+    "title": "National Gallery of Modern Art Tourism Guide",
+    "content": "National Gallery of Modern Art is a Museum in Delhi, Delhi. Its significance is Artistic. Best time to visit is All. Suggested visit duration in hours is 3.0. Google review rating is 4.5. Entrance fee in INR is 20. Weekly off is Monday."
+  },
+  {
+    "id": "kaggle-tourism-delhi-delhi-national-zoological-park",
+    "city": "Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "type": "tourism",
+    "title": "National Zoological Park Tourism Guide",
+    "content": "National Zoological Park is a Zoo in Delhi, Delhi. Its significance is Environmental. Best time to visit is All. Suggested visit duration in hours is 3.0. Google review rating is 4.1. Entrance fee in INR is 80. Weekly off is Friday."
+  },
+  {
+    "id": "kaggle-tourism-delhi-delhi-qutub-minar",
+    "city": "Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "type": "tourism",
+    "title": "Qutub Minar Tourism Guide",
+    "content": "Qutub Minar is a Monument in Delhi, Delhi. Its significance is Historical. Best time to visit is Afternoon. Suggested visit duration in hours is 1.0. Google review rating is 4.5. Entrance fee in INR is 35."
+  },
+  {
+    "id": "kaggle-tourism-delhi-delhi-national-science-centre",
+    "city": "Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "type": "tourism",
+    "title": "National Science Centre Tourism Guide",
+    "content": "National Science Centre is a Science in Delhi, Delhi. Its significance is Scientific. Best time to visit is All. Suggested visit duration in hours is 5.0. Google review rating is 4.4. Entrance fee in INR is 70."
+  },
+  {
+    "id": "kaggle-tourism-maharastra-mumbai-marine-drive",
+    "city": "Mumbai",
+    "state": "Maharastra",
+    "country": "India",
+    "type": "tourism",
+    "title": "Marine Drive Tourism Guide",
+    "content": "Marine Drive is a Promenade in Mumbai, Maharastra. Its significance is Scenic. Best time to visit is Evening. Suggested visit duration in hours is 2.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-maharastra-mumbai-gateway-of-india",
+    "city": "Mumbai",
+    "state": "Maharastra",
+    "country": "India",
+    "type": "tourism",
+    "title": "Gateway of India Tourism Guide",
+    "content": "Gateway of India is a Monument in Mumbai, Maharastra. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-maharastra-mumbai-chhatrapati-shivaji-maharaj-vastu-sangrahalaya",
+    "city": "Mumbai",
+    "state": "Maharastra",
+    "country": "India",
+    "type": "tourism",
+    "title": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya Tourism Guide",
+    "content": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya is a Museum in Mumbai, Maharastra. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.6. Entrance fee in INR is 500."
+  },
+  {
+    "id": "kaggle-tourism-maharastra-mumbai-sanjay-gandhi-national-park",
+    "city": "Mumbai",
+    "state": "Maharastra",
+    "country": "India",
+    "type": "tourism",
+    "title": "Sanjay Gandhi National Park Tourism Guide",
+    "content": "Sanjay Gandhi National Park is a National Park in Mumbai, Maharastra. Its significance is Wildlife. Best time to visit is All. Suggested visit duration in hours is 3.0. Google review rating is 4.3. Entrance fee in INR is 50. Weekly off is Monday."
+  },
+  {
+    "id": "kaggle-tourism-maharastra-mumbai-siddhivinayak-temple",
+    "city": "Mumbai",
+    "state": "Maharastra",
+    "country": "India",
+    "type": "tourism",
+    "title": "Siddhivinayak Temple Tourism Guide",
+    "content": "Siddhivinayak Temple is a Temple in Mumbai, Maharastra. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.8. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-maharastra-mumbai-mahalaxmi-temple",
+    "city": "Mumbai",
+    "state": "Maharastra",
+    "country": "India",
+    "type": "tourism",
+    "title": "Mahalaxmi Temple Tourism Guide",
+    "content": "Mahalaxmi Temple is a Temple in Mumbai, Maharastra. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-maharastra-mumbai-haji-ali-dargah",
+    "city": "Mumbai",
+    "state": "Maharastra",
+    "country": "India",
+    "type": "tourism",
+    "title": "Haji Ali Dargah Tourism Guide",
+    "content": "Haji Ali Dargah is a Religious Shrine in Mumbai, Maharastra. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.4. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-maharastra-mumbai-chowpatty-beach",
+    "city": "Mumbai",
+    "state": "Maharastra",
+    "country": "India",
+    "type": "tourism",
+    "title": "Chowpatty Beach Tourism Guide",
+    "content": "Chowpatty Beach is a Beach in Mumbai, Maharastra. Its significance is Recreational. Best time to visit is Evening. Suggested visit duration in hours is 2.0. Google review rating is 4.3. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-maharastra-mumbai-essel-world",
+    "city": "Mumbai",
+    "state": "Maharastra",
+    "country": "India",
+    "type": "tourism",
+    "title": "Essel World Tourism Guide",
+    "content": "Essel World is a Amusement Park in Mumbai, Maharastra. Its significance is Recreational. Best time to visit is All. Suggested visit duration in hours is 5.0. Google review rating is 4.3. Entrance fee in INR is 1149."
+  },
+  {
+    "id": "kaggle-tourism-maharastra-mumbai-elephanta-caves",
+    "city": "Mumbai",
+    "state": "Maharastra",
+    "country": "India",
+    "type": "tourism",
+    "title": "Elephanta Caves Tourism Guide",
+    "content": "Elephanta Caves is a Monument in Mumbai, Maharastra. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 4.0. Google review rating is 4.3. Entrance fee in INR is 550."
+  },
+  {
+    "id": "kaggle-tourism-maharastra-lonavala-imagicaa",
+    "city": "Lonavala",
+    "state": "Maharastra",
+    "country": "India",
+    "type": "tourism",
+    "title": "Imagicaa Tourism Guide",
+    "content": "Imagicaa is a Amusement Park in Lonavala, Maharastra. Its significance is Recreational. Best time to visit is All. Suggested visit duration in hours is 5.0. Google review rating is 1.4. Entrance fee in INR is 1149. Weekly off is Monday."
+  },
+  {
+    "id": "kaggle-tourism-karnataka-bangalore-bangalore-palace",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "country": "India",
+    "type": "tourism",
+    "title": "Bangalore Palace Tourism Guide",
+    "content": "Bangalore Palace is a Palace in Bangalore, Karnataka. Its significance is Historical. Best time to visit is Morning. Suggested visit duration in hours is 2.0. Google review rating is 4.2. Entrance fee in INR is 500. Weekly off is Monday."
+  },
+  {
+    "id": "kaggle-tourism-karnataka-bangalore-lalbagh-botanical-garden",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "country": "India",
+    "type": "tourism",
+    "title": "Lalbagh Botanical Garden Tourism Guide",
+    "content": "Lalbagh Botanical Garden is a Botanical Garden in Bangalore, Karnataka. Its significance is Nature. Best time to visit is Evening. Suggested visit duration in hours is 1.5. Google review rating is 4.4. Entrance fee in INR is 20."
+  },
+  {
+    "id": "kaggle-tourism-karnataka-bangalore-cubbon-park",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "country": "India",
+    "type": "tourism",
+    "title": "Cubbon Park Tourism Guide",
+    "content": "Cubbon Park is a Park in Bangalore, Karnataka. Its significance is Nature. Best time to visit is Morning. Suggested visit duration in hours is 1.0. Google review rating is 4.4. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-karnataka-bangalore-vidhana-soudha",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "country": "India",
+    "type": "tourism",
+    "title": "Vidhana Soudha Tourism Guide",
+    "content": "Vidhana Soudha is a Government Building in Bangalore, Karnataka. Its significance is Architectural. Best time to visit is Morning. Suggested visit duration in hours is 0.5. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-karnataka-bangalore-iskcon-temple-bangalore",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "country": "India",
+    "type": "tourism",
+    "title": "ISKCON Temple Bangalore Tourism Guide",
+    "content": "ISKCON Temple Bangalore is a Temple in Bangalore, Karnataka. Its significance is Religious. Best time to visit is Evening. Suggested visit duration in hours is 1.0. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-telangana-hyderabad-charminar",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "type": "tourism",
+    "title": "Charminar Tourism Guide",
+    "content": "Charminar is a Landmark in Hyderabad, Telangana. Its significance is Historical. Best time to visit is Morning. Suggested visit duration in hours is 1.0. Google review rating is 4.5. Entrance fee in INR is 25. Weekly off is Friday."
+  },
+  {
+    "id": "kaggle-tourism-telangana-hyderabad-golconda-fort",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "type": "tourism",
+    "title": "Golconda Fort Tourism Guide",
+    "content": "Golconda Fort is a Fort in Hyderabad, Telangana. Its significance is Historical. Best time to visit is Morning. Suggested visit duration in hours is 2.0. Google review rating is 4.4. Entrance fee in INR is 30."
+  },
+  {
+    "id": "kaggle-tourism-telangana-hyderabad-hussain-sagar-lake",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "type": "tourism",
+    "title": "Hussain Sagar Lake Tourism Guide",
+    "content": "Hussain Sagar Lake is a Lake in Hyderabad, Telangana. Its significance is Scenic. Best time to visit is Evening. Suggested visit duration in hours is 1.0. Google review rating is 4.3. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-telangana-hyderabad-ramoji-film-city",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "type": "tourism",
+    "title": "Ramoji Film City Tourism Guide",
+    "content": "Ramoji Film City is a Film Studio in Hyderabad, Telangana. Its significance is Entertainment. Best time to visit is All. Suggested visit duration in hours is 4.0. Google review rating is 4.4. Entrance fee in INR is 1150."
+  },
+  {
+    "id": "kaggle-tourism-telangana-hyderabad-salar-jung-museum",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "type": "tourism",
+    "title": "Salar Jung Museum Tourism Guide",
+    "content": "Salar Jung Museum is a Museum in Hyderabad, Telangana. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.4. Entrance fee in INR is 20."
+  },
+  {
+    "id": "kaggle-tourism-telangana-hyderabad-qutb-shahi-tombs",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "type": "tourism",
+    "title": "Qutb Shahi Tombs Tourism Guide",
+    "content": "Qutb Shahi Tombs is a Tombs in Hyderabad, Telangana. Its significance is Historical. Best time to visit is Morning. Suggested visit duration in hours is 1.0. Google review rating is 4.4. Entrance fee in INR is 25."
+  },
+  {
+    "id": "kaggle-tourism-telangana-hyderabad-birla-mandir",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "type": "tourism",
+    "title": "Birla Mandir Tourism Guide",
+    "content": "Birla Mandir is a Temple in Hyderabad, Telangana. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-telangana-hyderabad-chowmahalla-palace",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "type": "tourism",
+    "title": "Chowmahalla Palace Tourism Guide",
+    "content": "Chowmahalla Palace is a Palace in Hyderabad, Telangana. Its significance is Historical. Best time to visit is Morning. Suggested visit duration in hours is 1.5. Google review rating is 4.4. Entrance fee in INR is 80."
+  },
+  {
+    "id": "kaggle-tourism-telangana-hyderabad-nehru-zoological-park",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "type": "tourism",
+    "title": "Nehru Zoological Park Tourism Guide",
+    "content": "Nehru Zoological Park is a Zoo in Hyderabad, Telangana. Its significance is Wildlife. Best time to visit is Morning. Suggested visit duration in hours is 3.0. Google review rating is 4.2. Entrance fee in INR is 50."
+  },
+  {
+    "id": "kaggle-tourism-telangana-hyderabad-lumbini-park",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "type": "tourism",
+    "title": "Lumbini Park Tourism Guide",
+    "content": "Lumbini Park is a Park in Hyderabad, Telangana. Its significance is Recreational. Best time to visit is Evening. Suggested visit duration in hours is 1.0. Google review rating is 4.1. Entrance fee in INR is 20."
+  },
+  {
+    "id": "kaggle-tourism-west-bengal-kolkata-victoria-memorial",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "country": "India",
+    "type": "tourism",
+    "title": "Victoria Memorial Tourism Guide",
+    "content": "Victoria Memorial is a Museum in Kolkata, West Bengal. Its significance is Historical. Best time to visit is Morning. Suggested visit duration in hours is 1.5. Google review rating is 4.6. Entrance fee in INR is 30. Weekly off is Monday."
+  },
+  {
+    "id": "kaggle-tourism-west-bengal-kolkata-howrah-bridge",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "country": "India",
+    "type": "tourism",
+    "title": "Howrah Bridge Tourism Guide",
+    "content": "Howrah Bridge is a Bridge in Kolkata, West Bengal. Its significance is Architectural. Best time to visit is Anytime. Suggested visit duration in hours is 0.5. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-west-bengal-kolkata-indian-museum",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "country": "India",
+    "type": "tourism",
+    "title": "Indian Museum Tourism Guide",
+    "content": "Indian Museum is a Museum in Kolkata, West Bengal. Its significance is Historical. Best time to visit is Morning. Suggested visit duration in hours is 2.0. Google review rating is 4.6. Entrance fee in INR is 50. Weekly off is Monday."
+  },
+  {
+    "id": "kaggle-tourism-west-bengal-kolkata-dakshineswar-kali-temple",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "country": "India",
+    "type": "tourism",
+    "title": "Dakshineswar Kali Temple Tourism Guide",
+    "content": "Dakshineswar Kali Temple is a Temple in Kolkata, West Bengal. Its significance is Religious. Best time to visit is Morning. Suggested visit duration in hours is 1.0. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-west-bengal-kolkata-kalighat-kali-temple",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "country": "India",
+    "type": "tourism",
+    "title": "Kalighat Kali Temple Tourism Guide",
+    "content": "Kalighat Kali Temple is a Temple in Kolkata, West Bengal. Its significance is Religious. Best time to visit is Morning. Suggested visit duration in hours is 1.0. Google review rating is 4.4. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-west-bengal-kolkata-eden-gardens",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "country": "India",
+    "type": "tourism",
+    "title": "Eden Gardens Tourism Guide",
+    "content": "Eden Gardens is a Cricket Ground in Kolkata, West Bengal. Its significance is Sports. Best time to visit is All. Suggested visit duration in hours is 3.0. Google review rating is 4.1. Entrance fee in INR is 2500."
+  },
+  {
+    "id": "kaggle-tourism-west-bengal-kolkata-alipore-zoological-gardens",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "country": "India",
+    "type": "tourism",
+    "title": "Alipore Zoological Gardens Tourism Guide",
+    "content": "Alipore Zoological Gardens is a Zoo in Kolkata, West Bengal. Its significance is Wildlife. Best time to visit is Afternoon. Suggested visit duration in hours is 2.0. Google review rating is 4.3. Entrance fee in INR is 25."
+  },
+  {
+    "id": "kaggle-tourism-west-bengal-kolkata-science-city-kolkata",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "country": "India",
+    "type": "tourism",
+    "title": "Science City Kolkata Tourism Guide",
+    "content": "Science City Kolkata is a Science in Kolkata, West Bengal. Its significance is Educational. Best time to visit is All. Suggested visit duration in hours is 3.0. Google review rating is 4.4. Entrance fee in INR is 60."
+  },
+  {
+    "id": "kaggle-tourism-west-bengal-kolkata-belur-math",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "country": "India",
+    "type": "tourism",
+    "title": "Belur Math Tourism Guide",
+    "content": "Belur Math is a Site in Kolkata, West Bengal. Its significance is Religious. Best time to visit is Morning. Suggested visit duration in hours is 1.5. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-west-bengal-kolkata-marble-palace",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "country": "India",
+    "type": "tourism",
+    "title": "Marble Palace Tourism Guide",
+    "content": "Marble Palace is a Palace in Kolkata, West Bengal. Its significance is Historical. Best time to visit is Afternoon. Suggested visit duration in hours is 1.0. Google review rating is 4.4. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-goa-goa-calangute-beach",
+    "city": "Goa",
+    "state": "Goa",
+    "country": "India",
+    "type": "tourism",
+    "title": "Calangute Beach Tourism Guide",
+    "content": "Calangute Beach is a Beach in Goa, Goa. Its significance is Scenic. Best time to visit is Evening. Suggested visit duration in hours is 2.0. Google review rating is 4.4. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-goa-goa-basilica-of-bom-jesus",
+    "city": "Goa",
+    "state": "Goa",
+    "country": "India",
+    "type": "tourism",
+    "title": "Basilica of Bom Jesus Tourism Guide",
+    "content": "Basilica of Bom Jesus is a Church in Goa, Goa. Its significance is Historical. Best time to visit is Afternoon. Suggested visit duration in hours is 1.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-goa-goa-fort-aguada",
+    "city": "Goa",
+    "state": "Goa",
+    "country": "India",
+    "type": "tourism",
+    "title": "Fort Aguada Tourism Guide",
+    "content": "Fort Aguada is a Fort in Goa, Goa. Its significance is Historical. Best time to visit is Morning. Suggested visit duration in hours is 1.5. Google review rating is 4.2. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-goa-goa-dudhsagar-falls",
+    "city": "Goa",
+    "state": "Goa",
+    "country": "India",
+    "type": "tourism",
+    "title": "Dudhsagar Falls Tourism Guide",
+    "content": "Dudhsagar Falls is a Waterfall in Goa, Goa. Its significance is Nature. Best time to visit is Afternoon. Suggested visit duration in hours is 3.0. Google review rating is 4.6. Entrance fee in INR is 500."
+  },
+  {
+    "id": "kaggle-tourism-goa-goa-anjuna-beach",
+    "city": "Goa",
+    "state": "Goa",
+    "country": "India",
+    "type": "tourism",
+    "title": "Anjuna Beach Tourism Guide",
+    "content": "Anjuna Beach is a Beach in Goa, Goa. Its significance is Scenic. Best time to visit is Evening. Suggested visit duration in hours is 2.0. Google review rating is 4.4. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-goa-goa-chapora-fort",
+    "city": "Goa",
+    "state": "Goa",
+    "country": "India",
+    "type": "tourism",
+    "title": "Chapora Fort Tourism Guide",
+    "content": "Chapora Fort is a Fort in Goa, Goa. Its significance is Historical. Best time to visit is Evening. Suggested visit duration in hours is 1.0. Google review rating is 4.2. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-goa-goa-se-cathedral",
+    "city": "Goa",
+    "state": "Goa",
+    "country": "India",
+    "type": "tourism",
+    "title": "Se Cathedral Tourism Guide",
+    "content": "Se Cathedral is a Church in Goa, Goa. Its significance is Historical. Best time to visit is Afternoon. Suggested visit duration in hours is 1.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-goa-goa-baga-beach",
+    "city": "Goa",
+    "state": "Goa",
+    "country": "India",
+    "type": "tourism",
+    "title": "Baga Beach Tourism Guide",
+    "content": "Baga Beach is a Beach in Goa, Goa. Its significance is Scenic. Best time to visit is Evening. Suggested visit duration in hours is 2.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-goa-goa-arambol-beach",
+    "city": "Goa",
+    "state": "Goa",
+    "country": "India",
+    "type": "tourism",
+    "title": "Arambol Beach Tourism Guide",
+    "content": "Arambol Beach is a Beach in Goa, Goa. Its significance is Scenic. Best time to visit is Evening. Suggested visit duration in hours is 2.0. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-goa-goa-palolem-beach",
+    "city": "Goa",
+    "state": "Goa",
+    "country": "India",
+    "type": "tourism",
+    "title": "Palolem Beach Tourism Guide",
+    "content": "Palolem Beach is a Beach in Goa, Goa. Its significance is Scenic. Best time to visit is Evening. Suggested visit duration in hours is 2.0. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-goa-goa-colva-beach",
+    "city": "Goa",
+    "state": "Goa",
+    "country": "India",
+    "type": "tourism",
+    "title": "Colva Beach Tourism Guide",
+    "content": "Colva Beach is a Beach in Goa, Goa. Its significance is Scenic. Best time to visit is Evening. Suggested visit duration in hours is 2.0. Google review rating is 4.3. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-goa-goa-miramar-beach",
+    "city": "Goa",
+    "state": "Goa",
+    "country": "India",
+    "type": "tourism",
+    "title": "Miramar Beach Tourism Guide",
+    "content": "Miramar Beach is a Beach in Goa, Goa. Its significance is Scenic. Best time to visit is Evening. Suggested visit duration in hours is 1.5. Google review rating is 4.2. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-goa-goa-aguada-beach",
+    "city": "Goa",
+    "state": "Goa",
+    "country": "India",
+    "type": "tourism",
+    "title": "Aguada Beach Tourism Guide",
+    "content": "Aguada Beach is a Beach in Goa, Goa. Its significance is Scenic. Best time to visit is Evening. Suggested visit duration in hours is 2.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-goa-goa-dr--salim-ali-bird-santuary",
+    "city": "Goa",
+    "state": "Goa",
+    "country": "India",
+    "type": "tourism",
+    "title": "Dr. Salim Ali Bird Santuary Tourism Guide",
+    "content": "Dr. Salim Ali Bird Santuary is a Bird Sanctuary in Goa, Goa. Its significance is Wildlife. Best time to visit is Afternoon. Suggested visit duration in hours is 2.0. Google review rating is 3.9. Entrance fee in INR is 10."
+  },
+  {
+    "id": "kaggle-tourism-gujarat-ahmedabad-sabarmati-ashram",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "country": "India",
+    "type": "tourism",
+    "title": "Sabarmati Ashram Tourism Guide",
+    "content": "Sabarmati Ashram is a Historical in Ahmedabad, Gujarat. Its significance is Historical. Best time to visit is Morning. Suggested visit duration in hours is 1.5. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-gujarat-dwarka-dwarkadhish-temple",
+    "city": "Dwarka",
+    "state": "Gujarat",
+    "country": "India",
+    "type": "tourism",
+    "title": "Dwarkadhish Temple Tourism Guide",
+    "content": "Dwarkadhish Temple is a Temple in Dwarka, Gujarat. Its significance is Religious. Best time to visit is Evening. Suggested visit duration in hours is 2.0. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-gujarat-junagadh-gir-national-park",
+    "city": "Junagadh",
+    "state": "Gujarat",
+    "country": "India",
+    "type": "tourism",
+    "title": "Gir National Park Tourism Guide",
+    "content": "Gir National Park is a National Park in Junagadh, Gujarat. Its significance is Wildlife. Best time to visit is Morning. Suggested visit duration in hours is 3.0. Google review rating is 4.5. Entrance fee in INR is 3500."
+  },
+  {
+    "id": "kaggle-tourism-gujarat-bhuj-white-desert",
+    "city": "Bhuj",
+    "state": "Gujarat",
+    "country": "India",
+    "type": "tourism",
+    "title": "White Desert Tourism Guide",
+    "content": "White Desert is a Site in Bhuj, Gujarat. Its significance is Nature. Best time to visit is Evening. Suggested visit duration in hours is 2.5. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-gujarat-vadodara-laxmi-vilas-palace",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "country": "India",
+    "type": "tourism",
+    "title": "Laxmi Vilas Palace Tourism Guide",
+    "content": "Laxmi Vilas Palace is a Palace in Vadodara, Gujarat. Its significance is Historical. Best time to visit is Afternoon. Suggested visit duration in hours is 2.0. Google review rating is 4.4. Entrance fee in INR is 200. Weekly off is Monday."
+  },
+  {
+    "id": "kaggle-tourism-gujarat-somnath-somnath-temple",
+    "city": "Somnath",
+    "state": "Gujarat",
+    "country": "India",
+    "type": "tourism",
+    "title": "Somnath Temple Tourism Guide",
+    "content": "Somnath Temple is a Temple in Somnath, Gujarat. Its significance is Religious. Best time to visit is Morning. Suggested visit duration in hours is 2.0. Google review rating is 4.8. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-gujarat-rann-of-kutch-rann-utsav",
+    "city": "Rann of Kutch",
+    "state": "Gujarat",
+    "country": "India",
+    "type": "tourism",
+    "title": "Rann Utsav Tourism Guide",
+    "content": "Rann Utsav is a Cultural in Rann of Kutch, Gujarat. Its significance is Cultural. Best time to visit is Evening. Suggested visit duration in hours is 3.0. Google review rating is 4.9. Entrance fee in INR is 7500."
+  },
+  {
+    "id": "kaggle-tourism-gujarat-kevadia-statue-of-unity",
+    "city": "Kevadia",
+    "state": "Gujarat",
+    "country": "India",
+    "type": "tourism",
+    "title": "Statue of Unity Tourism Guide",
+    "content": "Statue of Unity is a Monument in Kevadia, Gujarat. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 3.0. Google review rating is 4.6. Entrance fee in INR is 350. Weekly off is Monday."
+  },
+  {
+    "id": "kaggle-tourism-gujarat-gandhinagar-dandi-kutir",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "country": "India",
+    "type": "tourism",
+    "title": "Dandi Kutir Tourism Guide",
+    "content": "Dandi Kutir is a Museum in Gandhinagar, Gujarat. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 1.5. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-gujarat-ahmedabad-sabarmati-riverfront",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "country": "India",
+    "type": "tourism",
+    "title": "Sabarmati Riverfront Tourism Guide",
+    "content": "Sabarmati Riverfront is a Urban Development Project in Ahmedabad, Gujarat. Its significance is Recreational. Best time to visit is Evening. Suggested visit duration in hours is 1.0. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-gujarat-ahmedabad-manek-chowk",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "country": "India",
+    "type": "tourism",
+    "title": "Manek Chowk Tourism Guide",
+    "content": "Manek Chowk is a Market in Ahmedabad, Gujarat. Its significance is Food. Best time to visit is Night. Suggested visit duration in hours is 2.0. Google review rating is 4.4. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-gujarat-ahmedabad-kankaria-lake",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "country": "India",
+    "type": "tourism",
+    "title": "Kankaria Lake Tourism Guide",
+    "content": "Kankaria Lake is a Lake in Ahmedabad, Gujarat. Its significance is Recreational. Best time to visit is Afternoon. Suggested visit duration in hours is 3.0. Google review rating is 4.5. Entrance fee in INR is 10."
+  },
+  {
+    "id": "kaggle-tourism-gujarat-ahmedabad-science-city",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "country": "India",
+    "type": "tourism",
+    "title": "Science City Tourism Guide",
+    "content": "Science City is a Science in Ahmedabad, Gujarat. Its significance is Educational. Best time to visit is All. Suggested visit duration in hours is 7.0. Google review rating is 4.4. Entrance fee in INR is 500. Weekly off is Monday."
+  },
+  {
+    "id": "kaggle-tourism-rajasthan-jaipur-hawa-mahal",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "country": "India",
+    "type": "tourism",
+    "title": "Hawa Mahal Tourism Guide",
+    "content": "Hawa Mahal is a Palace in Jaipur, Rajasthan. Its significance is Architectural. Best time to visit is Morning. Suggested visit duration in hours is 1.0. Google review rating is 4.4. Entrance fee in INR is 50."
+  },
+  {
+    "id": "kaggle-tourism-rajasthan-udaipur-city-palace",
+    "city": "Udaipur",
+    "state": "Rajasthan",
+    "country": "India",
+    "type": "tourism",
+    "title": "City Palace Tourism Guide",
+    "content": "City Palace is a Palace in Udaipur, Rajasthan. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.4. Entrance fee in INR is 300."
+  },
+  {
+    "id": "kaggle-tourism-rajasthan-jaisalmer-jaisalmer-fort",
+    "city": "Jaisalmer",
+    "state": "Rajasthan",
+    "country": "India",
+    "type": "tourism",
+    "title": "Jaisalmer Fort Tourism Guide",
+    "content": "Jaisalmer Fort is a Fort in Jaisalmer, Rajasthan. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 2.5. Google review rating is 4.4. Entrance fee in INR is 50."
+  },
+  {
+    "id": "kaggle-tourism-rajasthan-sawai-madhopur-ranthambore-national-park",
+    "city": "Sawai Madhopur",
+    "state": "Rajasthan",
+    "country": "India",
+    "type": "tourism",
+    "title": "Ranthambore National Park Tourism Guide",
+    "content": "Ranthambore National Park is a Wildlife Sanctuary in Sawai Madhopur, Rajasthan. Its significance is Wildlife. Best time to visit is All. Suggested visit duration in hours is 3.0. Google review rating is 4.6. Entrance fee in INR is 500."
+  },
+  {
+    "id": "kaggle-tourism-rajasthan-pushkar-pushkar-lake",
+    "city": "Pushkar",
+    "state": "Rajasthan",
+    "country": "India",
+    "type": "tourism",
+    "title": "Pushkar Lake Tourism Guide",
+    "content": "Pushkar Lake is a Temple in Pushkar, Rajasthan. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.5. Google review rating is 4.4. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-rajasthan-ajmer-ajmer-sharif-dargah",
+    "city": "Ajmer",
+    "state": "Rajasthan",
+    "country": "India",
+    "type": "tourism",
+    "title": "Ajmer Sharif Dargah Tourism Guide",
+    "content": "Ajmer Sharif Dargah is a Shrine in Ajmer, Rajasthan. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-rajasthan-jodhpur-mehrangarh-fort",
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "country": "India",
+    "type": "tourism",
+    "title": "Mehrangarh Fort Tourism Guide",
+    "content": "Mehrangarh Fort is a Fort in Jodhpur, Rajasthan. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.6. Entrance fee in INR is 100."
+  },
+  {
+    "id": "kaggle-tourism-rajasthan-chittorgarh-chittorgarh-fort",
+    "city": "Chittorgarh",
+    "state": "Rajasthan",
+    "country": "India",
+    "type": "tourism",
+    "title": "Chittorgarh Fort Tourism Guide",
+    "content": "Chittorgarh Fort is a Fort in Chittorgarh, Rajasthan. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.6. Entrance fee in INR is 40."
+  },
+  {
+    "id": "kaggle-tourism-rajasthan-mount-abu-dilwara-temples",
+    "city": "Mount Abu",
+    "state": "Rajasthan",
+    "country": "India",
+    "type": "tourism",
+    "title": "Dilwara Temples Tourism Guide",
+    "content": "Dilwara Temples is a Temple in Mount Abu, Rajasthan. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-rajasthan-bikaner-junagarh-fort",
+    "city": "Bikaner",
+    "state": "Rajasthan",
+    "country": "India",
+    "type": "tourism",
+    "title": "Junagarh Fort Tourism Guide",
+    "content": "Junagarh Fort is a Fort in Bikaner, Rajasthan. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.5. Entrance fee in INR is 50."
+  },
+  {
+    "id": "kaggle-tourism-rajasthan-jaipur-amber-fort",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "country": "India",
+    "type": "tourism",
+    "title": "Amber Fort Tourism Guide",
+    "content": "Amber Fort is a Fort in Jaipur, Rajasthan. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.6. Entrance fee in INR is 100."
+  },
+  {
+    "id": "kaggle-tourism-rajasthan-jaipur-jaigarh-fort",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "country": "India",
+    "type": "tourism",
+    "title": "Jaigarh Fort Tourism Guide",
+    "content": "Jaigarh Fort is a Fort in Jaipur, Rajasthan. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 1.5. Google review rating is 4.5. Entrance fee in INR is 35."
+  },
+  {
+    "id": "kaggle-tourism-rajasthan-udaipur-lake-pichola",
+    "city": "Udaipur",
+    "state": "Rajasthan",
+    "country": "India",
+    "type": "tourism",
+    "title": "Lake Pichola Tourism Guide",
+    "content": "Lake Pichola is a Lake in Udaipur, Rajasthan. Its significance is Nature. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-punjab-amritsar-golden-temple--harmandir-sahib",
+    "city": "Amritsar",
+    "state": "Punjab",
+    "country": "India",
+    "type": "tourism",
+    "title": "Golden Temple (Harmandir Sahib) Tourism Guide",
+    "content": "Golden Temple (Harmandir Sahib) is a Religious Site in Amritsar, Punjab. Its significance is Spiritual. Best time to visit is All. Suggested visit duration in hours is 1.5. Google review rating is 4.9. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-punjab-amritsar-jallianwala-bagh",
+    "city": "Amritsar",
+    "state": "Punjab",
+    "country": "India",
+    "type": "tourism",
+    "title": "Jallianwala Bagh Tourism Guide",
+    "content": "Jallianwala Bagh is a Memorial in Amritsar, Punjab. Its significance is Historical. Best time to visit is Afternoon. Suggested visit duration in hours is 1.0. Google review rating is 4.8. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-punjab-amritsar-wagah-border",
+    "city": "Amritsar",
+    "state": "Punjab",
+    "country": "India",
+    "type": "tourism",
+    "title": "Wagah Border Tourism Guide",
+    "content": "Wagah Border is a Border Crossing in Amritsar, Punjab. Its significance is Cultural. Best time to visit is Evening. Suggested visit duration in hours is 2.0. Google review rating is 4.8. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-punjab-chandigarh-rock-garden",
+    "city": "Chandigarh",
+    "state": "Punjab",
+    "country": "India",
+    "type": "tourism",
+    "title": "Rock Garden Tourism Guide",
+    "content": "Rock Garden is a Sculpture Garden in Chandigarh, Punjab. Its significance is Artistic. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.5. Entrance fee in INR is 30."
+  },
+  {
+    "id": "kaggle-tourism-kerala-alappuzha-alappuzha-beach",
+    "city": "Alappuzha",
+    "state": "Kerala",
+    "country": "India",
+    "type": "tourism",
+    "title": "Alappuzha Beach Tourism Guide",
+    "content": "Alappuzha Beach is a Beach in Alappuzha, Kerala. Its significance is Recreational. Best time to visit is All. Suggested visit duration in hours is 1.5. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-kerala-munnar-munnar-tea-gardens",
+    "city": "Munnar",
+    "state": "Kerala",
+    "country": "India",
+    "type": "tourism",
+    "title": "Munnar Tea Gardens Tourism Guide",
+    "content": "Munnar Tea Gardens is a Scenic Area in Munnar, Kerala. Its significance is Nature. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.3. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-kerala-kochi-fort-kochi",
+    "city": "Kochi",
+    "state": "Kerala",
+    "country": "India",
+    "type": "tourism",
+    "title": "Fort Kochi Tourism Guide",
+    "content": "Fort Kochi is a Site in Kochi, Kerala. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.4. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-kerala-thiruvananthapuram-padmanabhaswamy-temple",
+    "city": "Thiruvananthapuram",
+    "state": "Kerala",
+    "country": "India",
+    "type": "tourism",
+    "title": "Padmanabhaswamy Temple Tourism Guide",
+    "content": "Padmanabhaswamy Temple is a Temple in Thiruvananthapuram, Kerala. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-kerala-kozhikode-kozhikode-beach",
+    "city": "Kozhikode",
+    "state": "Kerala",
+    "country": "India",
+    "type": "tourism",
+    "title": "Kozhikode Beach Tourism Guide",
+    "content": "Kozhikode Beach is a Beach in Kozhikode, Kerala. Its significance is Recreational. Best time to visit is All. Suggested visit duration in hours is 1.5. Google review rating is 3.9. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-kerala-wayanad-wayanad-wildlife-sanctuary",
+    "city": "Wayanad",
+    "state": "Kerala",
+    "country": "India",
+    "type": "tourism",
+    "title": "Wayanad Wildlife Sanctuary Tourism Guide",
+    "content": "Wayanad Wildlife Sanctuary is a Wildlife Sanctuary in Wayanad, Kerala. Its significance is Wildlife. Best time to visit is All. Suggested visit duration in hours is 3.0. Google review rating is 4.5. Entrance fee in INR is 300."
+  },
+  {
+    "id": "kaggle-tourism-kerala-thekkady-periyar-national-park",
+    "city": "Thekkady",
+    "state": "Kerala",
+    "country": "India",
+    "type": "tourism",
+    "title": "Periyar National Park Tourism Guide",
+    "content": "Periyar National Park is a National Park in Thekkady, Kerala. Its significance is Wildlife. Best time to visit is All. Suggested visit duration in hours is 3.0. Google review rating is 4.3. Entrance fee in INR is 50."
+  },
+  {
+    "id": "kaggle-tourism-kerala-kumarakom-kumarakom-bird-sanctuary",
+    "city": "Kumarakom",
+    "state": "Kerala",
+    "country": "India",
+    "type": "tourism",
+    "title": "Kumarakom Bird Sanctuary Tourism Guide",
+    "content": "Kumarakom Bird Sanctuary is a Bird Sanctuary in Kumarakom, Kerala. Its significance is Wildlife. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 3.8. Entrance fee in INR is 50."
+  },
+  {
+    "id": "kaggle-tourism-kerala-varkala-varkala-beach",
+    "city": "Varkala",
+    "state": "Kerala",
+    "country": "India",
+    "type": "tourism",
+    "title": "Varkala Beach Tourism Guide",
+    "content": "Varkala Beach is a Beach in Varkala, Kerala. Its significance is Recreational. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-kerala-bekal-bekal-fort",
+    "city": "Bekal",
+    "state": "Kerala",
+    "country": "India",
+    "type": "tourism",
+    "title": "Bekal Fort Tourism Guide",
+    "content": "Bekal Fort is a Fort in Bekal, Kerala. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 1.5. Google review rating is 4.5. Entrance fee in INR is 20."
+  },
+  {
+    "id": "kaggle-tourism-kerala-kovalam-kovalam-beach",
+    "city": "Kovalam",
+    "state": "Kerala",
+    "country": "India",
+    "type": "tourism",
+    "title": "Kovalam Beach Tourism Guide",
+    "content": "Kovalam Beach is a Beach in Kovalam, Kerala. Its significance is Recreational. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.4. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-kerala-kannur-st--angelo-fort",
+    "city": "Kannur",
+    "state": "Kerala",
+    "country": "India",
+    "type": "tourism",
+    "title": "St. Angelo Fort Tourism Guide",
+    "content": "St. Angelo Fort is a Fort in Kannur, Kerala. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.4. Entrance fee in INR is 20."
+  },
+  {
+    "id": "kaggle-tourism-kerala-nelliyampathy-seethargundu-viewpoint",
+    "city": "Nelliyampathy",
+    "state": "Kerala",
+    "country": "India",
+    "type": "tourism",
+    "title": "Seethargundu Viewpoint Tourism Guide",
+    "content": "Seethargundu Viewpoint is a Viewpoint in Nelliyampathy, Kerala. Its significance is Nature. Best time to visit is Morning. Suggested visit duration in hours is 1.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-kerala-kochi-kerala-folklore-museum",
+    "city": "Kochi",
+    "state": "Kerala",
+    "country": "India",
+    "type": "tourism",
+    "title": "Kerala Folklore Museum Tourism Guide",
+    "content": "Kerala Folklore Museum is a Cultural in Kochi, Kerala. Its significance is Cultural. Best time to visit is All. Suggested visit duration in hours is 1.5. Google review rating is 4.4. Entrance fee in INR is 100. Weekly off is Monday."
+  },
+  {
+    "id": "kaggle-tourism-kerala-kochi-wonderla-amusement-park",
+    "city": "Kochi",
+    "state": "Kerala",
+    "country": "India",
+    "type": "tourism",
+    "title": "Wonderla Amusement Park Tourism Guide",
+    "content": "Wonderla Amusement Park is a Amusement Park in Kochi, Kerala. Its significance is Entertainment. Best time to visit is All. Suggested visit duration in hours is 5.5. Google review rating is 4.6. Entrance fee in INR is 750."
+  },
+  {
+    "id": "kaggle-tourism-karnataka-mysore-mysore-palace",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "country": "India",
+    "type": "tourism",
+    "title": "Mysore Palace Tourism Guide",
+    "content": "Mysore Palace is a Palace in Mysore, Karnataka. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.6. Entrance fee in INR is 50."
+  },
+  {
+    "id": "kaggle-tourism-karnataka-hampi-hampi-archaeological-ruins",
+    "city": "Hampi",
+    "state": "Karnataka",
+    "country": "India",
+    "type": "tourism",
+    "title": "Hampi Archaeological Ruins Tourism Guide",
+    "content": "Hampi Archaeological Ruins is a Site in Hampi, Karnataka. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 3.0. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-karnataka-coorg-abbey-falls",
+    "city": "Coorg",
+    "state": "Karnataka",
+    "country": "India",
+    "type": "tourism",
+    "title": "Abbey Falls Tourism Guide",
+    "content": "Abbey Falls is a Waterfall in Coorg, Karnataka. Its significance is Nature. Best time to visit is Morning. Suggested visit duration in hours is 1.0. Google review rating is 4.1. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-karnataka-gokarna-om-beach",
+    "city": "Gokarna",
+    "state": "Karnataka",
+    "country": "India",
+    "type": "tourism",
+    "title": "Om Beach Tourism Guide",
+    "content": "Om Beach is a Beach in Gokarna, Karnataka. Its significance is Nature. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-karnataka-chikmagalur-mullayanagiri",
+    "city": "Chikmagalur",
+    "state": "Karnataka",
+    "country": "India",
+    "type": "tourism",
+    "title": "Mullayanagiri Tourism Guide",
+    "content": "Mullayanagiri is a Mountain Peak in Chikmagalur, Karnataka. Its significance is Nature. Best time to visit is All. Suggested visit duration in hours is 3.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-karnataka-badami-badami-cave-temples",
+    "city": "Badami",
+    "state": "Karnataka",
+    "country": "India",
+    "type": "tourism",
+    "title": "Badami Cave Temples Tourism Guide",
+    "content": "Badami Cave Temples is a Cave in Badami, Karnataka. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.5. Google review rating is 4.6. Entrance fee in INR is 30."
+  },
+  {
+    "id": "kaggle-tourism-karnataka-shivamogga-jog-falls",
+    "city": "Shivamogga",
+    "state": "Karnataka",
+    "country": "India",
+    "type": "tourism",
+    "title": "Jog Falls Tourism Guide",
+    "content": "Jog Falls is a Waterfall in Shivamogga, Karnataka. Its significance is Nature. Best time to visit is Morning. Suggested visit duration in hours is 1.5. Google review rating is 4.6. Entrance fee in INR is 30."
+  },
+  {
+    "id": "kaggle-tourism-karnataka-mangalore-panambur-beach",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "country": "India",
+    "type": "tourism",
+    "title": "Panambur Beach Tourism Guide",
+    "content": "Panambur Beach is a Beach in Mangalore, Karnataka. Its significance is Recreational. Best time to visit is All. Suggested visit duration in hours is 1.5. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-karnataka-murudeshwar-murudeshwar-temple",
+    "city": "Murudeshwar",
+    "state": "Karnataka",
+    "country": "India",
+    "type": "tourism",
+    "title": "Murudeshwar Temple Tourism Guide",
+    "content": "Murudeshwar Temple is a Temple in Murudeshwar, Karnataka. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-karnataka-bijapur-gol-gumbaz",
+    "city": "Bijapur",
+    "state": "Karnataka",
+    "country": "India",
+    "type": "tourism",
+    "title": "Gol Gumbaz Tourism Guide",
+    "content": "Gol Gumbaz is a Mausoleum in Bijapur, Karnataka. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 1.5. Google review rating is 4.5. Entrance fee in INR is 20."
+  },
+  {
+    "id": "kaggle-tourism-karnataka-bandipur-bandipur-national-park",
+    "city": "Bandipur",
+    "state": "Karnataka",
+    "country": "India",
+    "type": "tourism",
+    "title": "Bandipur National Park Tourism Guide",
+    "content": "Bandipur National Park is a National Park in Bandipur, Karnataka. Its significance is Wildlife. Best time to visit is Morning. Suggested visit duration in hours is 3.0. Google review rating is 4.4. Entrance fee in INR is 300."
+  },
+  {
+    "id": "kaggle-tourism-karnataka-halebidu-halebidu-hoysaleswara-temple",
+    "city": "Halebidu",
+    "state": "Karnataka",
+    "country": "India",
+    "type": "tourism",
+    "title": "Halebidu Hoysaleswara Temple Tourism Guide",
+    "content": "Halebidu Hoysaleswara Temple is a Temple in Halebidu, Karnataka. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.7. Entrance fee in INR is 15."
+  },
+  {
+    "id": "kaggle-tourism-maharastra-pune-shaniwar-wada",
+    "city": "Pune",
+    "state": "Maharastra",
+    "country": "India",
+    "type": "tourism",
+    "title": "Shaniwar Wada Tourism Guide",
+    "content": "Shaniwar Wada is a Fort in Pune, Maharastra. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.4. Entrance fee in INR is 50."
+  },
+  {
+    "id": "kaggle-tourism-maharastra-aurangabad-ajanta-caves",
+    "city": "Aurangabad",
+    "state": "Maharastra",
+    "country": "India",
+    "type": "tourism",
+    "title": "Ajanta Caves Tourism Guide",
+    "content": "Ajanta Caves is a Cave in Aurangabad, Maharastra. Its significance is Historical. Best time to visit is Afternoon. Suggested visit duration in hours is 3.0. Google review rating is 4.6. Entrance fee in INR is 30. Weekly off is Monday."
+  },
+  {
+    "id": "kaggle-tourism-maharastra-nashik-sula-vineyards",
+    "city": "Nashik",
+    "state": "Maharastra",
+    "country": "India",
+    "type": "tourism",
+    "title": "Sula Vineyards Tourism Guide",
+    "content": "Sula Vineyards is a Vineyard in Nashik, Maharastra. Its significance is Recreational. Best time to visit is Afternoon. Suggested visit duration in hours is 2.0. Google review rating is 4.1. Entrance fee in INR is 300."
+  },
+  {
+    "id": "kaggle-tourism-maharastra-shirdi-sai-baba-temple",
+    "city": "Shirdi",
+    "state": "Maharastra",
+    "country": "India",
+    "type": "tourism",
+    "title": "Sai Baba Temple Tourism Guide",
+    "content": "Sai Baba Temple is a Temple in Shirdi, Maharastra. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.5. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-maharastra-alibaug-alibaug-beach",
+    "city": "Alibaug",
+    "state": "Maharastra",
+    "country": "India",
+    "type": "tourism",
+    "title": "Alibaug Beach Tourism Guide",
+    "content": "Alibaug Beach is a Beach in Alibaug, Maharastra. Its significance is Recreational. Best time to visit is Evening. Suggested visit duration in hours is 1.5. Google review rating is 4.2. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-maharastra-ratnagiri-ganapatipule-temple",
+    "city": "Ratnagiri",
+    "state": "Maharastra",
+    "country": "India",
+    "type": "tourism",
+    "title": "Ganapatipule Temple Tourism Guide",
+    "content": "Ganapatipule Temple is a Temple in Ratnagiri, Maharastra. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-maharastra-nagpur-deekshabhoomi",
+    "city": "Nagpur",
+    "state": "Maharastra",
+    "country": "India",
+    "type": "tourism",
+    "title": "Deekshabhoomi Tourism Guide",
+    "content": "Deekshabhoomi is a Monument in Nagpur, Maharastra. Its significance is Religious. Best time to visit is Afternoon. Suggested visit duration in hours is 1.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-maharastra-kolhapur-mahalakshmi-temple",
+    "city": "Kolhapur",
+    "state": "Maharastra",
+    "country": "India",
+    "type": "tourism",
+    "title": "Mahalakshmi Temple Tourism Guide",
+    "content": "Mahalakshmi Temple is a Temple in Kolhapur, Maharastra. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.8. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-maharastra-lonavala-karla-caves",
+    "city": "Lonavala",
+    "state": "Maharastra",
+    "country": "India",
+    "type": "tourism",
+    "title": "Karla Caves Tourism Guide",
+    "content": "Karla Caves is a Cave in Lonavala, Maharastra. Its significance is Historical. Best time to visit is Afternoon. Suggested visit duration in hours is 1.5. Google review rating is 4.4. Entrance fee in INR is 25. Weekly off is Yes."
+  },
+  {
+    "id": "kaggle-tourism-maharashtra-tarkarli-tarkarli-beach",
+    "city": "Tarkarli",
+    "state": "Maharashtra",
+    "country": "India",
+    "type": "tourism",
+    "title": "Tarkarli Beach Tourism Guide",
+    "content": "Tarkarli Beach is a Beach in Tarkarli, Maharashtra. Its significance is Recreational. Best time to visit is Evening. Suggested visit duration in hours is 2.0. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-maharashtra-satara-kaas-plateau",
+    "city": "Satara",
+    "state": "Maharashtra",
+    "country": "India",
+    "type": "tourism",
+    "title": "Kaas Plateau Tourism Guide",
+    "content": "Kaas Plateau is a Valley in Satara, Maharashtra. Its significance is Nature. Best time to visit is Afternoon. Suggested visit duration in hours is 2.0. Google review rating is 4.4. Entrance fee in INR is 300."
+  },
+  {
+    "id": "kaggle-tourism-maharashtra-matheran-echo-point",
+    "city": "Matheran",
+    "state": "Maharashtra",
+    "country": "India",
+    "type": "tourism",
+    "title": "Echo Point Tourism Guide",
+    "content": "Echo Point is a Viewpoint in Matheran, Maharashtra. Its significance is Nature. Best time to visit is Morning. Suggested visit duration in hours is 1.5. Google review rating is 4.4. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-maharashtra-ajanta-ellora-caves",
+    "city": "Ajanta",
+    "state": "Maharashtra",
+    "country": "India",
+    "type": "tourism",
+    "title": "Ellora Caves Tourism Guide",
+    "content": "Ellora Caves is a Cave in Ajanta, Maharashtra. Its significance is Historical. Best time to visit is Afternoon. Suggested visit duration in hours is 3.0. Google review rating is 4.7. Entrance fee in INR is 30. Weekly off is Tuesday."
+  },
+  {
+    "id": "kaggle-tourism-madhya-pradesh-khajuraho-khajuraho-group-of-monuments",
+    "city": "Khajuraho",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Khajuraho Group of Monuments Tourism Guide",
+    "content": "Khajuraho Group of Monuments is a Temples in Khajuraho, Madhya Pradesh. Its significance is Cultural. Best time to visit is Afternoon. Suggested visit duration in hours is 2.0. Google review rating is 4.7. Entrance fee in INR is 40."
+  },
+  {
+    "id": "kaggle-tourism-madhya-pradesh-bhopal-sanchi-stupa",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Sanchi Stupa Tourism Guide",
+    "content": "Sanchi Stupa is a Monument in Bhopal, Madhya Pradesh. Its significance is Historical. Best time to visit is Afternoon. Suggested visit duration in hours is 1.5. Google review rating is 4.7. Entrance fee in INR is 30."
+  },
+  {
+    "id": "kaggle-tourism-madhya-pradesh-indore-rajwada-palace",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Rajwada Palace Tourism Guide",
+    "content": "Rajwada Palace is a Palace in Indore, Madhya Pradesh. Its significance is Historical. Best time to visit is Afternoon. Suggested visit duration in hours is 1.0. Google review rating is 4.4. Entrance fee in INR is 10."
+  },
+  {
+    "id": "kaggle-tourism-madhya-pradesh-gwalior-gwalior-fort",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Gwalior Fort Tourism Guide",
+    "content": "Gwalior Fort is a Fort in Gwalior, Madhya Pradesh. Its significance is Historical. Best time to visit is Morning. Suggested visit duration in hours is 2.5. Google review rating is 4.5. Entrance fee in INR is 75."
+  },
+  {
+    "id": "kaggle-tourism-madhya-pradesh-ujjain-mahakaleshwar-jyotirlinga",
+    "city": "Ujjain",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Mahakaleshwar Jyotirlinga Tourism Guide",
+    "content": "Mahakaleshwar Jyotirlinga is a Temple in Ujjain, Madhya Pradesh. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.5. Google review rating is 4.8. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-madhya-pradesh-jabalpur-dhuandhar-falls",
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Dhuandhar Falls Tourism Guide",
+    "content": "Dhuandhar Falls is a Waterfall in Jabalpur, Madhya Pradesh. Its significance is Nature. Best time to visit is Morning. Suggested visit duration in hours is 1.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-madhya-pradesh-pachmarhi-bee-falls",
+    "city": "Pachmarhi",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Bee Falls Tourism Guide",
+    "content": "Bee Falls is a Waterfall in Pachmarhi, Madhya Pradesh. Its significance is Nature. Best time to visit is Morning. Suggested visit duration in hours is 1.5. Google review rating is 4.6. Entrance fee in INR is 15."
+  },
+  {
+    "id": "kaggle-tourism-madhya-pradesh-kanha-kanha-national-park",
+    "city": "Kanha",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Kanha National Park Tourism Guide",
+    "content": "Kanha National Park is a Wildlife Sanctuary in Kanha, Madhya Pradesh. Its significance is Wildlife. Best time to visit is Morning. Suggested visit duration in hours is 3.0. Google review rating is 4.5. Entrance fee in INR is 100."
+  },
+  {
+    "id": "kaggle-tourism-madhya-pradesh-bandhavgarh-bandhavgarh-national-park",
+    "city": "Bandhavgarh",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Bandhavgarh National Park Tourism Guide",
+    "content": "Bandhavgarh National Park is a National Park in Bandhavgarh, Madhya Pradesh. Its significance is Wildlife. Best time to visit is Morning. Suggested visit duration in hours is 3.0. Google review rating is 4.5. Entrance fee in INR is 50."
+  },
+  {
+    "id": "kaggle-tourism-madhya-pradesh-orchha-orchha-fort",
+    "city": "Orchha",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Orchha Fort Tourism Guide",
+    "content": "Orchha Fort is a Fort in Orchha, Madhya Pradesh. Its significance is Historical. Best time to visit is Afternoon. Suggested visit duration in hours is 1.5. Google review rating is 4.8. Entrance fee in INR is 10."
+  },
+  {
+    "id": "kaggle-tourism-madhya-pradesh-mandu-jahaz-mahal",
+    "city": "Mandu",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Jahaz Mahal Tourism Guide",
+    "content": "Jahaz Mahal is a Site in Mandu, Madhya Pradesh. Its significance is Historical. Best time to visit is Afternoon. Suggested visit duration in hours is 1.0. Google review rating is 3.9. Entrance fee in INR is 50."
+  },
+  {
+    "id": "kaggle-tourism-madhya-pradesh-bhimbetka-bhimbetka-rock-shelters",
+    "city": "Bhimbetka",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Bhimbetka Rock Shelters Tourism Guide",
+    "content": "Bhimbetka Rock Shelters is a Prehistoric Site in Bhimbetka, Madhya Pradesh. Its significance is Archaeological. Best time to visit is Afternoon. Suggested visit duration in hours is 2.0. Google review rating is 4.6. Entrance fee in INR is 25."
+  },
+  {
+    "id": "kaggle-tourism-madhya-pradesh-amarkantak-narmada-udgam-temple",
+    "city": "Amarkantak",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Narmada Udgam Temple Tourism Guide",
+    "content": "Narmada Udgam Temple is a Temple in Amarkantak, Madhya Pradesh. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.4. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-madhya-pradesh-chitrakoot-chitrakoot-falls",
+    "city": "Chitrakoot",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Chitrakoot Falls Tourism Guide",
+    "content": "Chitrakoot Falls is a Waterfall in Chitrakoot, Madhya Pradesh. Its significance is Nature. Best time to visit is Morning. Suggested visit duration in hours is 1.5. Google review rating is 4.4. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-himachal-pradesh-shimla-the-ridge",
+    "city": "Shimla",
+    "state": "Himachal Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "The Ridge Tourism Guide",
+    "content": "The Ridge is a Scenic Point in Shimla, Himachal Pradesh. Its significance is Recreational. Best time to visit is Morning. Suggested visit duration in hours is 1.0. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-himachal-pradesh-manali-solang-valley",
+    "city": "Manali",
+    "state": "Himachal Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Solang Valley Tourism Guide",
+    "content": "Solang Valley is a Valley in Manali, Himachal Pradesh. Its significance is Adventure. Best time to visit is Morning. Suggested visit duration in hours is 2.0. Google review rating is 4.1. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-himachal-pradesh-dalhousie-dalai-lama-temple",
+    "city": "dalhousie",
+    "state": "Himachal Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Dalai Lama Temple Tourism Guide",
+    "content": "Dalai Lama Temple is a Temple in dalhousie, Himachal Pradesh. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.5. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-himachal-pradesh-dalhousie-khajjiar-lake",
+    "city": "Dalhousie",
+    "state": "Himachal Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Khajjiar Lake Tourism Guide",
+    "content": "Khajjiar Lake is a Lake in Dalhousie, Himachal Pradesh. Its significance is Nature. Best time to visit is Morning. Suggested visit duration in hours is 1.5. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-himachal-pradesh-spiti-valley-key-monastery",
+    "city": "Spiti Valley",
+    "state": "Himachal Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Key Monastery Tourism Guide",
+    "content": "Key Monastery is a Monastery in Spiti Valley, Himachal Pradesh. Its significance is Religious. Best time to visit is Morning. Suggested visit duration in hours is 1.0. Google review rating is 4.8. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-himachal-pradesh-kullu-great-himalayan-national-park",
+    "city": "Kullu",
+    "state": "Himachal Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Great Himalayan National Park Tourism Guide",
+    "content": "Great Himalayan National Park is a National Park in Kullu, Himachal Pradesh. Its significance is Wildlife. Best time to visit is All. Suggested visit duration in hours is 3.0. Google review rating is 4.5. Entrance fee in INR is 50."
+  },
+  {
+    "id": "kaggle-tourism-himachal-pradesh-chamba-chamera-lake",
+    "city": "Chamba",
+    "state": "Himachal Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Chamera Lake Tourism Guide",
+    "content": "Chamera Lake is a Lake in Chamba, Himachal Pradesh. Its significance is Recreational. Best time to visit is Morning. Suggested visit duration in hours is 2.0. Google review rating is 4.4. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-himachal-pradesh-kinnaur-sangla-valley",
+    "city": "Kinnaur",
+    "state": "Himachal Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Sangla Valley Tourism Guide",
+    "content": "Sangla Valley is a Valley in Kinnaur, Himachal Pradesh. Its significance is Nature. Best time to visit is Morning. Suggested visit duration in hours is 2.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-himachal-pradesh-kangra-kangra-fort",
+    "city": "Kangra",
+    "state": "Himachal Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Kangra Fort Tourism Guide",
+    "content": "Kangra Fort is a Fort in Kangra, Himachal Pradesh. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.4. Entrance fee in INR is 150."
+  },
+  {
+    "id": "kaggle-tourism-himachal-pradesh-palampur-tea-gardens",
+    "city": "Palampur",
+    "state": "Himachal Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Tea Gardens Tourism Guide",
+    "content": "Tea Gardens is a Tea Plantation in Palampur, Himachal Pradesh. Its significance is Agricultural. Best time to visit is Morning. Suggested visit duration in hours is 1.5. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-himachal-pradesh-mandi-prashar-lake",
+    "city": "Mandi",
+    "state": "Himachal Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Prashar Lake Tourism Guide",
+    "content": "Prashar Lake is a Lake in Mandi, Himachal Pradesh. Its significance is Nature. Best time to visit is Morning. Suggested visit duration in hours is 1.5. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-himachal-pradesh-bir-billing-paragliding-site",
+    "city": "Bir Billing",
+    "state": "Himachal Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Paragliding Site Tourism Guide",
+    "content": "Paragliding Site is a Adventure Sport in Bir Billing, Himachal Pradesh. Its significance is Adventure. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.8. Entrance fee in INR is 2500."
+  },
+  {
+    "id": "kaggle-tourism-himachal-pradesh-mcleod-ganj-triund-trek",
+    "city": "McLeod Ganj",
+    "state": "Himachal Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Triund Trek Tourism Guide",
+    "content": "Triund Trek is a Trekking in McLeod Ganj, Himachal Pradesh. Its significance is Adventure. Best time to visit is Morning. Suggested visit duration in hours is 5.0. Google review rating is 4.8. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-himachal-pradesh-manikaran-manikaran-sahib",
+    "city": "Manikaran",
+    "state": "Himachal Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Manikaran Sahib Tourism Guide",
+    "content": "Manikaran Sahib is a Gurudwara in Manikaran, Himachal Pradesh. Its significance is Religious. Best time to visit is Morning. Suggested visit duration in hours is 1.0. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-himachal-pradesh-narkanda-hatu-peak",
+    "city": "Narkanda",
+    "state": "Himachal Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Hatu Peak Tourism Guide",
+    "content": "Hatu Peak is a Viewpoint in Narkanda, Himachal Pradesh. Its significance is Nature. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-himachal-pradesh-barot-barot-valley",
+    "city": "Barot",
+    "state": "Himachal Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Barot Valley Tourism Guide",
+    "content": "Barot Valley is a Valley in Barot, Himachal Pradesh. Its significance is Nature. Best time to visit is Morning. Suggested visit duration in hours is 2.0. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-himachal-pradesh-shoja-serolsar-lake",
+    "city": "Shoja",
+    "state": "Himachal Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Serolsar Lake Tourism Guide",
+    "content": "Serolsar Lake is a Lake in Shoja, Himachal Pradesh. Its significance is Nature. Best time to visit is Morning. Suggested visit duration in hours is 2.5. Google review rating is 4.4. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-himachal-pradesh-kufri-kufri-fun-world",
+    "city": "Kufri",
+    "state": "Himachal Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Kufri Fun World Tourism Guide",
+    "content": "Kufri Fun World is a Ski Resort in Kufri, Himachal Pradesh. Its significance is Recreational. Best time to visit is All. Suggested visit duration in hours is 5.0. Google review rating is 3.8. Entrance fee in INR is 1500."
+  },
+  {
+    "id": "kaggle-tourism-uttarakhand-nainital-naini-lake",
+    "city": "Nainital",
+    "state": "Uttarakhand",
+    "country": "India",
+    "type": "tourism",
+    "title": "Naini Lake Tourism Guide",
+    "content": "Naini Lake is a Lake in Nainital, Uttarakhand. Its significance is Nature. Best time to visit is Morning. Suggested visit duration in hours is 1.5. Google review rating is 4.2. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-uttarakhand-rishikesh-laxman-jhula",
+    "city": "Rishikesh",
+    "state": "Uttarakhand",
+    "country": "India",
+    "type": "tourism",
+    "title": "Laxman Jhula Tourism Guide",
+    "content": "Laxman Jhula is a Suspension Bridge in Rishikesh, Uttarakhand. Its significance is Cultural. Best time to visit is Morning. Suggested visit duration in hours is 1.0. Google review rating is 4.4. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-uttarakhand-haridwar-har-ki-pauri",
+    "city": "Haridwar",
+    "state": "Uttarakhand",
+    "country": "India",
+    "type": "tourism",
+    "title": "Har Ki Pauri Tourism Guide",
+    "content": "Har Ki Pauri is a Ghat in Haridwar, Uttarakhand. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-uttarakhand-dehradun-robber-s-cave",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "country": "India",
+    "type": "tourism",
+    "title": "Robber's Cave Tourism Guide",
+    "content": "Robber's Cave is a Cave in Dehradun, Uttarakhand. Its significance is Nature. Best time to visit is Morning. Suggested visit duration in hours is 1.5. Google review rating is 4.5. Entrance fee in INR is 25."
+  },
+  {
+    "id": "kaggle-tourism-uttarakhand-mussoorie-kempty-falls",
+    "city": "Mussoorie",
+    "state": "Uttarakhand",
+    "country": "India",
+    "type": "tourism",
+    "title": "Kempty Falls Tourism Guide",
+    "content": "Kempty Falls is a Waterfall in Mussoorie, Uttarakhand. Its significance is Nature. Best time to visit is Morning. Suggested visit duration in hours is 1.5. Google review rating is 4.2. Entrance fee in INR is 15."
+  },
+  {
+    "id": "kaggle-tourism-uttarakhand-auli-auli-ski-resort",
+    "city": "Auli",
+    "state": "Uttarakhand",
+    "country": "India",
+    "type": "tourism",
+    "title": "Auli Ski Resort Tourism Guide",
+    "content": "Auli Ski Resort is a Ski Resort in Auli, Uttarakhand. Its significance is Adventure. Best time to visit is Morning. Suggested visit duration in hours is 3.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-uttarakhand-badrinath-badrinath-temple",
+    "city": "Badrinath",
+    "state": "Uttarakhand",
+    "country": "India",
+    "type": "tourism",
+    "title": "Badrinath Temple Tourism Guide",
+    "content": "Badrinath Temple is a Temple in Badrinath, Uttarakhand. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.8. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-uttarakhand-almora-binsar-wildlife-sanctuary",
+    "city": "Almora",
+    "state": "Uttarakhand",
+    "country": "India",
+    "type": "tourism",
+    "title": "Binsar Wildlife Sanctuary Tourism Guide",
+    "content": "Binsar Wildlife Sanctuary is a Wildlife Sanctuary in Almora, Uttarakhand. Its significance is Wildlife. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.3. Entrance fee in INR is 150."
+  },
+  {
+    "id": "kaggle-tourism-uttarakhand-ranikhet-chaubatia-gardens",
+    "city": "Ranikhet",
+    "state": "Uttarakhand",
+    "country": "India",
+    "type": "tourism",
+    "title": "Chaubatia Gardens Tourism Guide",
+    "content": "Chaubatia Gardens is a Orchard in Ranikhet, Uttarakhand. Its significance is Recreational. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.0. Entrance fee in INR is 50."
+  },
+  {
+    "id": "kaggle-tourism-uttarakhand-jim-corbett-jim-corbett-national-park",
+    "city": "Jim Corbett",
+    "state": "Uttarakhand",
+    "country": "India",
+    "type": "tourism",
+    "title": "Jim Corbett National Park Tourism Guide",
+    "content": "Jim Corbett National Park is a National Park in Jim Corbett, Uttarakhand. Its significance is Wildlife. Best time to visit is All. Suggested visit duration in hours is 3.0. Google review rating is 4.4. Entrance fee in INR is 100."
+  },
+  {
+    "id": "kaggle-tourism-uttarakhand-uttarkashi-gangotri-temple",
+    "city": "Uttarkashi",
+    "state": "Uttarakhand",
+    "country": "India",
+    "type": "tourism",
+    "title": "Gangotri Temple Tourism Guide",
+    "content": "Gangotri Temple is a Temple in Uttarkashi, Uttarakhand. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.8. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-uttarakhand-chopta-tungnath-temple",
+    "city": "Chopta",
+    "state": "Uttarakhand",
+    "country": "India",
+    "type": "tourism",
+    "title": "Tungnath Temple Tourism Guide",
+    "content": "Tungnath Temple is a Temple in Chopta, Uttarakhand. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.8. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-uttarakhand-joshimath-valley-of-flowers",
+    "city": "Joshimath",
+    "state": "Uttarakhand",
+    "country": "India",
+    "type": "tourism",
+    "title": "Valley of Flowers Tourism Guide",
+    "content": "Valley of Flowers is a National Park in Joshimath, Uttarakhand. Its significance is Nature. Best time to visit is Morning. Suggested visit duration in hours is 5.0. Google review rating is 4.7. Entrance fee in INR is 150."
+  },
+  {
+    "id": "kaggle-tourism-uttar-pradesh-agra-taj-mahal",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Taj Mahal Tourism Guide",
+    "content": "Taj Mahal is a Mausoleum in Agra, Uttar Pradesh. Its significance is Historical. Best time to visit is Morning. Suggested visit duration in hours is 2.0. Google review rating is 4.6. Entrance fee in INR is 50. Weekly off is Friday."
+  },
+  {
+    "id": "kaggle-tourism-uttar-pradesh-varanasi-kashi-vishwanath-temple",
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Kashi Vishwanath Temple Tourism Guide",
+    "content": "Kashi Vishwanath Temple is a Temple in Varanasi, Uttar Pradesh. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-uttar-pradesh-lucknow-bara-imambara",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Bara Imambara Tourism Guide",
+    "content": "Bara Imambara is a Monument in Lucknow, Uttar Pradesh. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 1.5. Google review rating is 4.4. Entrance fee in INR is 50. Weekly off is Monday."
+  },
+  {
+    "id": "kaggle-tourism-uttar-pradesh-mathura-krishna-janmabhoomi",
+    "city": "Mathura",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Krishna Janmabhoomi Tourism Guide",
+    "content": "Krishna Janmabhoomi is a Temple in Mathura, Uttar Pradesh. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-uttar-pradesh-ayodhya-ram-janmabhoomi",
+    "city": "Ayodhya",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Ram Janmabhoomi Tourism Guide",
+    "content": "Ram Janmabhoomi is a Religious Site in Ayodhya, Uttar Pradesh. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.8. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-uttar-pradesh-vrindavan-banke-bihari-temple",
+    "city": "Vrindavan",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Banke Bihari Temple Tourism Guide",
+    "content": "Banke Bihari Temple is a Temple in Vrindavan, Uttar Pradesh. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.8. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-uttar-pradesh-allahabad-triveni-sangam",
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Triveni Sangam Tourism Guide",
+    "content": "Triveni Sangam is a Confluence in Allahabad, Uttar Pradesh. Its significance is Religious. Best time to visit is Morning. Suggested visit duration in hours is 1.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-uttar-pradesh-jhansi-jhansi-fort",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Jhansi Fort Tourism Guide",
+    "content": "Jhansi Fort is a Fort in Jhansi, Uttar Pradesh. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 1.5. Google review rating is 4.4. Entrance fee in INR is 15."
+  },
+  {
+    "id": "kaggle-tourism-uttar-pradesh-sarnath-dhamek-stupa",
+    "city": "Sarnath",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Dhamek Stupa Tourism Guide",
+    "content": "Dhamek Stupa is a Monument in Sarnath, Uttar Pradesh. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.6. Entrance fee in INR is 5."
+  },
+  {
+    "id": "kaggle-tourism-uttar-pradesh-fatehpur-sikri-buland-darwaza",
+    "city": "Fatehpur Sikri",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Buland Darwaza Tourism Guide",
+    "content": "Buland Darwaza is a Monument in Fatehpur Sikri, Uttar Pradesh. Its significance is Historical. Best time to visit is Afternoon. Suggested visit duration in hours is 2.0. Google review rating is 4.4. Entrance fee in INR is 40."
+  },
+  {
+    "id": "kaggle-tourism-uttar-pradesh-noida-okhla-bird-sanctuary",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Okhla Bird Sanctuary Tourism Guide",
+    "content": "Okhla Bird Sanctuary is a Bird Sanctuary in Noida, Uttar Pradesh. Its significance is Wildlife. Best time to visit is All. Suggested visit duration in hours is 1.5. Google review rating is 4.3. Entrance fee in INR is 30."
+  },
+  {
+    "id": "kaggle-tourism-uttar-pradesh-aligarh-aligarh-fort",
+    "city": "Aligarh",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Aligarh Fort Tourism Guide",
+    "content": "Aligarh Fort is a Fort in Aligarh, Uttar Pradesh. Its significance is Historical. Best time to visit is Afternoon. Suggested visit duration in hours is 1.0. Google review rating is 4.1. Entrance fee in INR is 20."
+  },
+  {
+    "id": "kaggle-tourism-uttar-pradesh-meerut-augarnath-temple",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Augarnath Temple Tourism Guide",
+    "content": "Augarnath Temple is a Temple in Meerut, Uttar Pradesh. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.8. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-uttar-pradesh-kanpur-allen-forest-zoo",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Allen Forest Zoo Tourism Guide",
+    "content": "Allen Forest Zoo is a Zoo in Kanpur, Uttar Pradesh. Its significance is Wildlife. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.2. Entrance fee in INR is 150. Weekly off is Monday."
+  },
+  {
+    "id": "kaggle-tourism-jammu-and-kashmir-srinagar-dal-lake",
+    "city": "Srinagar",
+    "state": "Jammu and Kashmir",
+    "country": "India",
+    "type": "tourism",
+    "title": "Dal Lake Tourism Guide",
+    "content": "Dal Lake is a Lake in Srinagar, Jammu and Kashmir. Its significance is Nature. Best time to visit is Morning. Suggested visit duration in hours is 2.0. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-ladakh-leh-pangong-tso",
+    "city": "Leh",
+    "state": "Ladakh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Pangong Tso Tourism Guide",
+    "content": "Pangong Tso is a Lake in Leh, Ladakh. Its significance is Nature. Best time to visit is Morning. Suggested visit duration in hours is 2.0. Google review rating is 4.9. Entrance fee in INR is 20."
+  },
+  {
+    "id": "kaggle-tourism-jammu-and-kashmir-pahalgam-betaab-valley",
+    "city": "Pahalgam",
+    "state": "Jammu and Kashmir",
+    "country": "India",
+    "type": "tourism",
+    "title": "Betaab Valley Tourism Guide",
+    "content": "Betaab Valley is a Valley in Pahalgam, Jammu and Kashmir. Its significance is Nature. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.6. Entrance fee in INR is 100."
+  },
+  {
+    "id": "kaggle-tourism-jammu-and-kashmir-jammu-vaishno-devi",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "country": "India",
+    "type": "tourism",
+    "title": "Vaishno Devi Tourism Guide",
+    "content": "Vaishno Devi is a Temple in Jammu, Jammu and Kashmir. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 5.0. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-jammu-and-kashmir-udhampur-patnitop-height",
+    "city": "Udhampur",
+    "state": "Jammu and Kashmir",
+    "country": "India",
+    "type": "tourism",
+    "title": "Patnitop Height Tourism Guide",
+    "content": "Patnitop Height is a Hill in Udhampur, Jammu and Kashmir. Its significance is Recreational. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.1. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-jammu-and-kashmir-anantnag-amarnath-cave",
+    "city": "Anantnag",
+    "state": "Jammu and Kashmir",
+    "country": "India",
+    "type": "tourism",
+    "title": "Amarnath Cave Tourism Guide",
+    "content": "Amarnath Cave is a Temple in Anantnag, Jammu and Kashmir. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 6.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-ladakh-leh-thiksey-monastery",
+    "city": "Leh",
+    "state": "Ladakh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Thiksey Monastery Tourism Guide",
+    "content": "Thiksey Monastery is a Monastery in Leh, Ladakh. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.5. Google review rating is 4.7. Entrance fee in INR is 20."
+  },
+  {
+    "id": "kaggle-tourism-ladakh-nubra-valley-nubra-valley",
+    "city": "Nubra Valley",
+    "state": "Ladakh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Nubra Valley Tourism Guide",
+    "content": "Nubra Valley is a Valley in Nubra Valley, Ladakh. Its significance is Nature. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-ladakh-kargil-kargil-war-memorial",
+    "city": "Kargil",
+    "state": "Ladakh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Kargil War Memorial Tourism Guide",
+    "content": "Kargil War Memorial is a War Memorial in Kargil, Ladakh. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.8. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-ladakh-diskit-diskit-monastery",
+    "city": "Diskit",
+    "state": "Ladakh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Diskit Monastery Tourism Guide",
+    "content": "Diskit Monastery is a Monastery in Diskit, Ladakh. Its significance is Religious. Best time to visit is Morning. Suggested visit duration in hours is 1.0. Google review rating is 4.7. Entrance fee in INR is 20."
+  },
+  {
+    "id": "kaggle-tourism-jammu-and-kashmir-kishtwar-kishtwar-national-park",
+    "city": "Kishtwar",
+    "state": "Jammu and Kashmir",
+    "country": "India",
+    "type": "tourism",
+    "title": "Kishtwar National Park Tourism Guide",
+    "content": "Kishtwar National Park is a National Park in Kishtwar, Jammu and Kashmir. Its significance is Wildlife. Best time to visit is All. Suggested visit duration in hours is 3.0. Google review rating is 4.3. Entrance fee in INR is 100."
+  },
+  {
+    "id": "kaggle-tourism-ladakh-hemis-hemis-national-park",
+    "city": "Hemis",
+    "state": "Ladakh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Hemis National Park Tourism Guide",
+    "content": "Hemis National Park is a National Park in Hemis, Ladakh. Its significance is Wildlife. Best time to visit is All. Suggested visit duration in hours is 4.0. Google review rating is 4.4. Entrance fee in INR is 20."
+  },
+  {
+    "id": "kaggle-tourism-ladakh-dras-dras-war-memorial",
+    "city": "Dras",
+    "state": "Ladakh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Dras War Memorial Tourism Guide",
+    "content": "Dras War Memorial is a War Memorial in Dras, Ladakh. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.8. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-ladakh-leh-magnetic-hill",
+    "city": "Leh",
+    "state": "Ladakh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Magnetic Hill Tourism Guide",
+    "content": "Magnetic Hill is a Gravity Hill in Leh, Ladakh. Its significance is Nature. Best time to visit is All. Suggested visit duration in hours is 0.5. Google review rating is 3.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-ladakh-leh-khardung-la-pass",
+    "city": "Leh",
+    "state": "Ladakh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Khardung La Pass Tourism Guide",
+    "content": "Khardung La Pass is a Hill in Leh, Ladakh. Its significance is Adventure. Best time to visit is Afternoon. Suggested visit duration in hours is 1.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-ladakh-leh-thiksey-monastery",
+    "city": "Leh",
+    "state": "Ladakh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Thiksey Monastery Tourism Guide",
+    "content": "Thiksey Monastery is a Monastery in Leh, Ladakh. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.5. Google review rating is 4.7. Entrance fee in INR is 30."
+  },
+  {
+    "id": "kaggle-tourism-uttar-pradesh-vrindavan-prem-mandir",
+    "city": "Vrindavan",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Prem Mandir Tourism Guide",
+    "content": "Prem Mandir is a Temple in Vrindavan, Uttar Pradesh. Its significance is Religious. Best time to visit is Evening. Suggested visit duration in hours is 1.5. Google review rating is 4.8. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-uttar-pradesh-porbandar-kirti-mandir",
+    "city": "Porbandar",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Kirti Mandir Tourism Guide",
+    "content": "Kirti Mandir is a Memorial in Porbandar, Uttar Pradesh. Its significance is Historical. Best time to visit is Morning. Suggested visit duration in hours is 1.0. Google review rating is 4.8. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-uttar-pradesh-mathura-nand-gaon",
+    "city": "Mathura",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Nand Gaon Tourism Guide",
+    "content": "Nand Gaon is a Village in Mathura, Uttar Pradesh. Its significance is Cultural. Best time to visit is Morning. Suggested visit duration in hours is 1.0. Google review rating is 4.1. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-uttar-pradesh-mathura-barsana-mandir",
+    "city": "Mathura",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Barsana Mandir Tourism Guide",
+    "content": "Barsana Mandir is a Temple in Mathura, Uttar Pradesh. Its significance is Religious. Best time to visit is Morning. Suggested visit duration in hours is 1.0. Google review rating is 4.8. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-west-bengal-darjeeling-tiger-hill",
+    "city": "Darjeeling",
+    "state": "West Bengal",
+    "country": "India",
+    "type": "tourism",
+    "title": "Tiger Hill Tourism Guide",
+    "content": "Tiger Hill is a Sunrise Point in Darjeeling, West Bengal. Its significance is Nature. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-west-bengal-siliguri-jaldapara-national-park",
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "country": "India",
+    "type": "tourism",
+    "title": "Jaldapara National Park Tourism Guide",
+    "content": "Jaldapara National Park is a Wildlife Sanctuary in Siliguri, West Bengal. Its significance is Wildlife. Best time to visit is All. Suggested visit duration in hours is 3.0. Google review rating is 4.4. Entrance fee in INR is 250."
+  },
+  {
+    "id": "kaggle-tourism-west-bengal-sundarbans-sundarbans-national-park",
+    "city": "Sundarbans",
+    "state": "West Bengal",
+    "country": "India",
+    "type": "tourism",
+    "title": "Sundarbans National Park Tourism Guide",
+    "content": "Sundarbans National Park is a National Park in Sundarbans, West Bengal. Its significance is Wildlife. Best time to visit is All. Suggested visit duration in hours is 4.0. Google review rating is 4.4. Entrance fee in INR is 60."
+  },
+  {
+    "id": "kaggle-tourism-west-bengal-digha-digha-beach",
+    "city": "Digha",
+    "state": "West Bengal",
+    "country": "India",
+    "type": "tourism",
+    "title": "Digha Beach Tourism Guide",
+    "content": "Digha Beach is a Beach in Digha, West Bengal. Its significance is Recreational. Best time to visit is Morning. Suggested visit duration in hours is 1.5. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-west-bengal-murshidabad-hazarduari-palace",
+    "city": "Murshidabad",
+    "state": "West Bengal",
+    "country": "India",
+    "type": "tourism",
+    "title": "Hazarduari Palace Tourism Guide",
+    "content": "Hazarduari Palace is a Palace in Murshidabad, West Bengal. Its significance is Historical. Best time to visit is Morning. Suggested visit duration in hours is 1.5. Google review rating is 4.5. Entrance fee in INR is 10. Weekly off is Friday."
+  },
+  {
+    "id": "kaggle-tourism-west-bengal-bolpur-kankalitala-temple",
+    "city": "Bolpur",
+    "state": "West Bengal",
+    "country": "India",
+    "type": "tourism",
+    "title": "Kankalitala Temple Tourism Guide",
+    "content": "Kankalitala Temple is a Temple in Bolpur, West Bengal. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 0.5. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-west-bengal-hooghly-hangseswari-temple",
+    "city": "Hooghly",
+    "state": "West Bengal",
+    "country": "India",
+    "type": "tourism",
+    "title": "Hangseswari Temple Tourism Guide",
+    "content": "Hangseswari Temple is a Temple in Hooghly, West Bengal. Its significance is Architectural. Best time to visit is All. Suggested visit duration in hours is 0.5. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-west-bengal-jalpaiguri-gorumara-national-park",
+    "city": "Jalpaiguri",
+    "state": "West Bengal",
+    "country": "India",
+    "type": "tourism",
+    "title": "Gorumara National Park Tourism Guide",
+    "content": "Gorumara National Park is a National Park in Jalpaiguri, West Bengal. Its significance is Wildlife. Best time to visit is All. Suggested visit duration in hours is 3.0. Google review rating is 4.4. Entrance fee in INR is 100."
+  },
+  {
+    "id": "kaggle-tourism-west-bengal-cooch-behar-cooch-behar-palace",
+    "city": "Cooch Behar",
+    "state": "West Bengal",
+    "country": "India",
+    "type": "tourism",
+    "title": "Cooch Behar Palace Tourism Guide",
+    "content": "Cooch Behar Palace is a Palace in Cooch Behar, West Bengal. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.5. Entrance fee in INR is 20. Weekly off is Friday."
+  },
+  {
+    "id": "kaggle-tourism-west-bengal-purulia-ayodhya-hills",
+    "city": "Purulia",
+    "state": "West Bengal",
+    "country": "India",
+    "type": "tourism",
+    "title": "Ayodhya Hills Tourism Guide",
+    "content": "Ayodhya Hills is a Hill in Purulia, West Bengal. Its significance is Nature. Best time to visit is All. Suggested visit duration in hours is 2.5. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-odisha-puri-jagannath-temple",
+    "city": "Puri",
+    "state": "Odisha",
+    "country": "India",
+    "type": "tourism",
+    "title": "Jagannath Temple Tourism Guide",
+    "content": "Jagannath Temple is a Temple in Puri, Odisha. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-odisha-konark-sun-temple",
+    "city": "Konark",
+    "state": "Odisha",
+    "country": "India",
+    "type": "tourism",
+    "title": "Sun Temple Tourism Guide",
+    "content": "Sun Temple is a Temple in Konark, Odisha. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 1.5. Google review rating is 4.7. Entrance fee in INR is 40."
+  },
+  {
+    "id": "kaggle-tourism-odisha-bhubaneswar-lingaraj-temple",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "country": "India",
+    "type": "tourism",
+    "title": "Lingaraj Temple Tourism Guide",
+    "content": "Lingaraj Temple is a Temple in Bhubaneswar, Odisha. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-odisha-rourkela-khandadhar-waterfall",
+    "city": "Rourkela",
+    "state": "Odisha",
+    "country": "India",
+    "type": "tourism",
+    "title": "Khandadhar Waterfall Tourism Guide",
+    "content": "Khandadhar Waterfall is a Waterfall in Rourkela, Odisha. Its significance is Nature. Best time to visit is All. Suggested visit duration in hours is 1.5. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-odisha-cuttack-barabati-fort",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "country": "India",
+    "type": "tourism",
+    "title": "Barabati Fort Tourism Guide",
+    "content": "Barabati Fort is a Fort in Cuttack, Odisha. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-odisha-sambalpur-hirakud-dam",
+    "city": "Sambalpur",
+    "state": "Odisha",
+    "country": "India",
+    "type": "tourism",
+    "title": "Hirakud Dam Tourism Guide",
+    "content": "Hirakud Dam is a Dam in Sambalpur, Odisha. Its significance is Engineering Marvel. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-odisha-chilika-chilika-lake",
+    "city": "Chilika",
+    "state": "Odisha",
+    "country": "India",
+    "type": "tourism",
+    "title": "Chilika Lake Tourism Guide",
+    "content": "Chilika Lake is a Lake in Chilika, Odisha. Its significance is Nature. Best time to visit is Morning. Suggested visit duration in hours is 2.0. Google review rating is 3.9. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-odisha-berhampur-tara-tarini-temple",
+    "city": "Berhampur",
+    "state": "Odisha",
+    "country": "India",
+    "type": "tourism",
+    "title": "Tara Tarini Temple Tourism Guide",
+    "content": "Tara Tarini Temple is a Temple in Berhampur, Odisha. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-odisha-keonjhar-badaghagara-waterfall",
+    "city": "Keonjhar",
+    "state": "Odisha",
+    "country": "India",
+    "type": "tourism",
+    "title": "Badaghagara Waterfall Tourism Guide",
+    "content": "Badaghagara Waterfall is a Waterfall in Keonjhar, Odisha. Its significance is Nature. Best time to visit is Morning. Suggested visit duration in hours is 1.0. Google review rating is 4.3. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-odisha-balasore-chandipur-beach",
+    "city": "Balasore",
+    "state": "Odisha",
+    "country": "India",
+    "type": "tourism",
+    "title": "Chandipur Beach Tourism Guide",
+    "content": "Chandipur Beach is a Beach in Balasore, Odisha. Its significance is Recreational. Best time to visit is Morning. Suggested visit duration in hours is 1.5. Google review rating is 4.2. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-odisha-kendujhar-sanaghagara-waterfall",
+    "city": "Kendujhar",
+    "state": "Odisha",
+    "country": "India",
+    "type": "tourism",
+    "title": "Sanaghagara Waterfall Tourism Guide",
+    "content": "Sanaghagara Waterfall is a Waterfall in Kendujhar, Odisha. Its significance is Nature. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.4. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-tamil-nadu-chennai-marina-beach",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "type": "tourism",
+    "title": "Marina Beach Tourism Guide",
+    "content": "Marina Beach is a Beach in Chennai, Tamil Nadu. Its significance is Recreational. Best time to visit is Morning. Suggested visit duration in hours is 1.5. Google review rating is 3.9. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-tamil-nadu-madurai-meenakshi-amman-temple",
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "type": "tourism",
+    "title": "Meenakshi Amman Temple Tourism Guide",
+    "content": "Meenakshi Amman Temple is a Temple in Madurai, Tamil Nadu. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-tamil-nadu-rameswaram-ramanathaswamy-temple",
+    "city": "Rameswaram",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "type": "tourism",
+    "title": "Ramanathaswamy Temple Tourism Guide",
+    "content": "Ramanathaswamy Temple is a Temple in Rameswaram, Tamil Nadu. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.5. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-tamil-nadu-kanyakumari-vivekananda-rock-memorial",
+    "city": "Kanyakumari",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "type": "tourism",
+    "title": "Vivekananda Rock Memorial Tourism Guide",
+    "content": "Vivekananda Rock Memorial is a Memorial in Kanyakumari, Tamil Nadu. Its significance is Historical. Best time to visit is Morning. Suggested visit duration in hours is 1.0. Google review rating is 4.6. Entrance fee in INR is 20."
+  },
+  {
+    "id": "kaggle-tourism-tamil-nadu-ooty-ooty-lake",
+    "city": "Ooty",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "type": "tourism",
+    "title": "Ooty Lake Tourism Guide",
+    "content": "Ooty Lake is a Lake in Ooty, Tamil Nadu. Its significance is Recreational. Best time to visit is Morning. Suggested visit duration in hours is 1.0. Google review rating is 4.1. Entrance fee in INR is 10."
+  },
+  {
+    "id": "kaggle-tourism-tamil-nadu-coimbatore-marudamalai-temple",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "type": "tourism",
+    "title": "Marudamalai Temple Tourism Guide",
+    "content": "Marudamalai Temple is a Temple in Coimbatore, Tamil Nadu. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-tamil-nadu-kodaikanal-kodaikanal-lake",
+    "city": "Kodaikanal",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "type": "tourism",
+    "title": "Kodaikanal Lake Tourism Guide",
+    "content": "Kodaikanal Lake is a Lake in Kodaikanal, Tamil Nadu. Its significance is Recreational. Best time to visit is Morning. Suggested visit duration in hours is 2.0. Google review rating is 3.9. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-tamil-nadu-thanjavur-brihadeeswarar-temple",
+    "city": "Thanjavur",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "type": "tourism",
+    "title": "Brihadeeswarar Temple Tourism Guide",
+    "content": "Brihadeeswarar Temple is a Temple in Thanjavur, Tamil Nadu. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.5. Google review rating is 4.8. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-tamil-nadu-mahabalipuram-shore-temple",
+    "city": "Mahabalipuram",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "type": "tourism",
+    "title": "Shore Temple Tourism Guide",
+    "content": "Shore Temple is a Temple in Mahabalipuram, Tamil Nadu. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.6. Entrance fee in INR is 40."
+  },
+  {
+    "id": "kaggle-tourism-tamil-nadu-yercaud-yercaud-lake",
+    "city": "Yercaud",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "type": "tourism",
+    "title": "Yercaud Lake Tourism Guide",
+    "content": "Yercaud Lake is a Lake in Yercaud, Tamil Nadu. Its significance is Recreational. Best time to visit is Morning. Suggested visit duration in hours is 1.0. Google review rating is 4.2. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-tamil-nadu-tirunelveli-nellaiappar-temple",
+    "city": "Tirunelveli",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "type": "tourism",
+    "title": "Nellaiappar Temple Tourism Guide",
+    "content": "Nellaiappar Temple is a Temple in Tirunelveli, Tamil Nadu. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-tamil-nadu-chidambaram-nataraja-temple",
+    "city": "Chidambaram",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "type": "tourism",
+    "title": "Nataraja Temple Tourism Guide",
+    "content": "Nataraja Temple is a Temple in Chidambaram, Tamil Nadu. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-andhra-pradesh-vijayawada-kanaka-durga-temple",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Kanaka Durga Temple Tourism Guide",
+    "content": "Kanaka Durga Temple is a Temple in Vijayawada, Andhra Pradesh. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-andhra-pradesh-visakhapatnam-rishikonda-beach",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Rishikonda Beach Tourism Guide",
+    "content": "Rishikonda Beach is a Beach in Visakhapatnam, Andhra Pradesh. Its significance is Recreational. Best time to visit is Morning. Suggested visit duration in hours is 1.5. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-andhra-pradesh-srisailam-mallikarjuna-swamy-temple",
+    "city": "Srisailam",
+    "state": "Andhra Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Mallikarjuna Swamy Temple Tourism Guide",
+    "content": "Mallikarjuna Swamy Temple is a Temple in Srisailam, Andhra Pradesh. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-andhra-pradesh-rajahmundry-papikondalu",
+    "city": "Rajahmundry",
+    "state": "Andhra Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Papikondalu Tourism Guide",
+    "content": "Papikondalu is a Hill in Rajahmundry, Andhra Pradesh. Its significance is Nature. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.3. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-andhra-pradesh-anantapur-lepakshi",
+    "city": "Anantapur",
+    "state": "Andhra Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Lepakshi Tourism Guide",
+    "content": "Lepakshi is a Site in Anantapur, Andhra Pradesh. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 1.5. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-andhra-pradesh-kurnool-belum-caves",
+    "city": "Kurnool",
+    "state": "Andhra Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Belum Caves Tourism Guide",
+    "content": "Belum Caves is a Cave in Kurnool, Andhra Pradesh. Its significance is Natural Wonder. Best time to visit is Afternoon. Suggested visit duration in hours is 1.5. Google review rating is 4.4. Entrance fee in INR is 65."
+  },
+  {
+    "id": "kaggle-tourism-andhra-pradesh-amravati-amaravathi-temple",
+    "city": "Amravati",
+    "state": "Andhra Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Amaravathi Temple Tourism Guide",
+    "content": "Amaravathi Temple is a Temple in Amravati, Andhra Pradesh. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-andhra-pradesh-guntur-uppalapadu-bird-sanctuary",
+    "city": "Guntur",
+    "state": "Andhra Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Uppalapadu Bird Sanctuary Tourism Guide",
+    "content": "Uppalapadu Bird Sanctuary is a Bird Sanctuary in Guntur, Andhra Pradesh. Its significance is Wildlife. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.4. Entrance fee in INR is 10."
+  },
+  {
+    "id": "kaggle-tourism-andhra-pradesh-kadapa-gandikota-fort",
+    "city": "Kadapa",
+    "state": "Andhra Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Gandikota Fort Tourism Guide",
+    "content": "Gandikota Fort is a Fort in Kadapa, Andhra Pradesh. Its significance is Historical. Best time to visit is Morning. Suggested visit duration in hours is 1.5. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-andhra-pradesh-puttaparthi-prasanthi-nilayam",
+    "city": "Puttaparthi",
+    "state": "Andhra Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Prasanthi Nilayam Tourism Guide",
+    "content": "Prasanthi Nilayam is a Spiritual Center in Puttaparthi, Andhra Pradesh. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-andhra-pradesh-vizianagaram-simhachalam-temple",
+    "city": "Vizianagaram",
+    "state": "Andhra Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Simhachalam Temple Tourism Guide",
+    "content": "Simhachalam Temple is a Temple in Vizianagaram, Andhra Pradesh. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-andhra-pradesh-visakhapatnam-kailasagiri",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Kailasagiri Tourism Guide",
+    "content": "Kailasagiri is a Hill in Visakhapatnam, Andhra Pradesh. Its significance is Recreational. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-andhra-pradesh-visakhapatnam-submarine-museum",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Submarine Museum Tourism Guide",
+    "content": "Submarine Museum is a Museum in Visakhapatnam, Andhra Pradesh. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.6. Entrance fee in INR is 40."
+  },
+  {
+    "id": "kaggle-tourism-andhra-pradesh-visakhapatnam-borra-caves",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Borra Caves Tourism Guide",
+    "content": "Borra Caves is a Cave in Visakhapatnam, Andhra Pradesh. Its significance is Natural Wonder. Best time to visit is Afternoon. Suggested visit duration in hours is 2.0. Google review rating is 4.5. Entrance fee in INR is 60."
+  },
+  {
+    "id": "kaggle-tourism-andhra-pradesh-visakhapatnam-war-memorial",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "War Memorial Tourism Guide",
+    "content": "War Memorial is a War Memorial in Visakhapatnam, Andhra Pradesh. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-andhra-pradesh-visakhapatnam-indira-gandhi-zoological-park",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Indira Gandhi Zoological Park Tourism Guide",
+    "content": "Indira Gandhi Zoological Park is a Zoo in Visakhapatnam, Andhra Pradesh. Its significance is Wildlife. Best time to visit is Afternoon. Suggested visit duration in hours is 2.0. Google review rating is 4.1. Entrance fee in INR is 20. Weekly off is Monday."
+  },
+  {
+    "id": "kaggle-tourism-andhra-pradesh-visakhapatnam-matsyadarshini-aquarium",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Matsyadarshini Aquarium Tourism Guide",
+    "content": "Matsyadarshini Aquarium is a Aquarium in Visakhapatnam, Andhra Pradesh. Its significance is Recreational. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 3.8. Entrance fee in INR is 20."
+  },
+  {
+    "id": "kaggle-tourism-andhra-pradesh-visakhapatnam-visakha-museum",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Visakha Museum Tourism Guide",
+    "content": "Visakha Museum is a Museum in Visakhapatnam, Andhra Pradesh. Its significance is Cultural. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.3. Entrance fee in INR is 10."
+  },
+  {
+    "id": "kaggle-tourism-sikkim-gangtok-nathula-pass",
+    "city": "Gangtok",
+    "state": "Sikkim",
+    "country": "India",
+    "type": "tourism",
+    "title": "Nathula Pass Tourism Guide",
+    "content": "Nathula Pass is a Hill in Gangtok, Sikkim. Its significance is Historical. Best time to visit is Afternoon. Suggested visit duration in hours is 2.0. Google review rating is 4.3. Entrance fee in INR is 20."
+  },
+  {
+    "id": "kaggle-tourism-sikkim-pelling-pemayangtse-monastery",
+    "city": "Pelling",
+    "state": "Sikkim",
+    "country": "India",
+    "type": "tourism",
+    "title": "Pemayangtse Monastery Tourism Guide",
+    "content": "Pemayangtse Monastery is a Monastery in Pelling, Sikkim. Its significance is Religious. Best time to visit is Morning. Suggested visit duration in hours is 1.0. Google review rating is 4.6. Entrance fee in INR is 20."
+  },
+  {
+    "id": "kaggle-tourism-sikkim-namchi-char-dham",
+    "city": "Namchi",
+    "state": "Sikkim",
+    "country": "India",
+    "type": "tourism",
+    "title": "Char Dham Tourism Guide",
+    "content": "Char Dham is a Religious Complex in Namchi, Sikkim. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.7. Entrance fee in INR is 50."
+  },
+  {
+    "id": "kaggle-tourism-sikkim-gangtok-rumtek-monastery",
+    "city": "Gangtok",
+    "state": "Sikkim",
+    "country": "India",
+    "type": "tourism",
+    "title": "Rumtek Monastery Tourism Guide",
+    "content": "Rumtek Monastery is a Monastery in Gangtok, Sikkim. Its significance is Religious. Best time to visit is Morning. Suggested visit duration in hours is 1.0. Google review rating is 4.6. Entrance fee in INR is 10."
+  },
+  {
+    "id": "kaggle-tourism-sikkim-ravangla-buddha-park",
+    "city": "Ravangla",
+    "state": "Sikkim",
+    "country": "India",
+    "type": "tourism",
+    "title": "Buddha Park Tourism Guide",
+    "content": "Buddha Park is a Park in Ravangla, Sikkim. Its significance is Cultural. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.8. Entrance fee in INR is 50."
+  },
+  {
+    "id": "kaggle-tourism-sikkim-gangtok-baba-harbhajan-singh-temple",
+    "city": "Gangtok",
+    "state": "Sikkim",
+    "country": "India",
+    "type": "tourism",
+    "title": "Baba Harbhajan Singh Temple Tourism Guide",
+    "content": "Baba Harbhajan Singh Temple is a Temple in Gangtok, Sikkim. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-sikkim-gangtok-tsomgo-lake",
+    "city": "Gangtok",
+    "state": "Sikkim",
+    "country": "India",
+    "type": "tourism",
+    "title": "Tsomgo Lake Tourism Guide",
+    "content": "Tsomgo Lake is a Lake in Gangtok, Sikkim. Its significance is Nature. Best time to visit is Morning. Suggested visit duration in hours is 2.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-assam-guwahati-kamakhya-temple",
+    "city": "Guwahati",
+    "state": "Assam",
+    "country": "India",
+    "type": "tourism",
+    "title": "Kamakhya Temple Tourism Guide",
+    "content": "Kamakhya Temple is a Temple in Guwahati, Assam. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-assam-kaziranga-kaziranga-national-park",
+    "city": "Kaziranga",
+    "state": "Assam",
+    "country": "India",
+    "type": "tourism",
+    "title": "Kaziranga National Park Tourism Guide",
+    "content": "Kaziranga National Park is a National Park in Kaziranga, Assam. Its significance is Wildlife. Best time to visit is Morning. Suggested visit duration in hours is 3.0. Google review rating is 4.5. Entrance fee in INR is 650."
+  },
+  {
+    "id": "kaggle-tourism-assam-guwahati-umananda-island",
+    "city": "Guwahati",
+    "state": "Assam",
+    "country": "India",
+    "type": "tourism",
+    "title": "Umananda Island Tourism Guide",
+    "content": "Umananda Island is a Island in Guwahati, Assam. Its significance is Nature. Best time to visit is Morning. Suggested visit duration in hours is 1.0. Google review rating is 4.1. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-assam-sivasagar-sivasagar-sivadol",
+    "city": "Sivasagar",
+    "state": "Assam",
+    "country": "India",
+    "type": "tourism",
+    "title": "Sivasagar Sivadol Tourism Guide",
+    "content": "Sivasagar Sivadol is a Temple in Sivasagar, Assam. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-assam-majuli-majuli-island",
+    "city": "Majuli",
+    "state": "Assam",
+    "country": "India",
+    "type": "tourism",
+    "title": "Majuli Island Tourism Guide",
+    "content": "Majuli Island is a River Island in Majuli, Assam. Its significance is Cultural. Best time to visit is Morning. Suggested visit duration in hours is 2.0. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-assam-manas-manas-national-park",
+    "city": "Manas",
+    "state": "Assam",
+    "country": "India",
+    "type": "tourism",
+    "title": "Manas National Park Tourism Guide",
+    "content": "Manas National Park is a National Park in Manas, Assam. Its significance is Wildlife. Best time to visit is Morning. Suggested visit duration in hours is 3.0. Google review rating is 4.6. Entrance fee in INR is 500."
+  },
+  {
+    "id": "kaggle-tourism-assam-hajo-hayagriva-madhava-temple",
+    "city": "Hajo",
+    "state": "Assam",
+    "country": "India",
+    "type": "tourism",
+    "title": "Hayagriva Madhava Temple Tourism Guide",
+    "content": "Hayagriva Madhava Temple is a Temple in Hajo, Assam. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-assam-guwahati-pobitora-wildlife-sanctuary",
+    "city": "Guwahati",
+    "state": "Assam",
+    "country": "India",
+    "type": "tourism",
+    "title": "Pobitora Wildlife Sanctuary Tourism Guide",
+    "content": "Pobitora Wildlife Sanctuary is a Wildlife Sanctuary in Guwahati, Assam. Its significance is Wildlife. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.4. Entrance fee in INR is 500."
+  },
+  {
+    "id": "kaggle-tourism-arunachal-pradesh-tawang-tawang-monastery",
+    "city": "Tawang",
+    "state": "Arunachal Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Tawang Monastery Tourism Guide",
+    "content": "Tawang Monastery is a Monastery in Tawang, Arunachal Pradesh. Its significance is Religious. Best time to visit is Morning. Suggested visit duration in hours is 2.0. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-tripura-agartala-ujjayanta-palace",
+    "city": "Agartala",
+    "state": "Tripura",
+    "country": "India",
+    "type": "tourism",
+    "title": "Ujjayanta Palace Tourism Guide",
+    "content": "Ujjayanta Palace is a Palace in Agartala, Tripura. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 1.5. Google review rating is 4.5. Entrance fee in INR is 10. Weekly off is Monday."
+  },
+  {
+    "id": "kaggle-tourism-tripura-dumboor-dumboor-lake",
+    "city": "Dumboor",
+    "state": "Tripura",
+    "country": "India",
+    "type": "tourism",
+    "title": "Dumboor Lake Tourism Guide",
+    "content": "Dumboor Lake is a Lake in Dumboor, Tripura. Its significance is Nature. Best time to visit is Morning. Suggested visit duration in hours is 1.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-tripura-unakoti-unakoti-rock-carvings",
+    "city": "Unakoti",
+    "state": "Tripura",
+    "country": "India",
+    "type": "tourism",
+    "title": "Unakoti Rock Carvings Tourism Guide",
+    "content": "Unakoti Rock Carvings is a Rock Carvings in Unakoti, Tripura. Its significance is Historical. Best time to visit is Morning. Suggested visit duration in hours is 1.5. Google review rating is 4.5. Entrance fee in INR is 20."
+  },
+  {
+    "id": "kaggle-tourism-chhattisgarh-bastar-chitrakote-falls",
+    "city": "Bastar",
+    "state": "Chhattisgarh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Chitrakote Falls Tourism Guide",
+    "content": "Chitrakote Falls is a Waterfall in Bastar, Chhattisgarh. Its significance is Nature. Best time to visit is Morning. Suggested visit duration in hours is 1.5. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-nagaland-dz\u00fckou-valley-dz\u00fckou-valley",
+    "city": "Dz\u00fckou Valley",
+    "state": "Nagaland",
+    "country": "India",
+    "type": "tourism",
+    "title": "Dz\u00fckou Valley Tourism Guide",
+    "content": "Dz\u00fckou Valley is a Valley in Dz\u00fckou Valley, Nagaland. Its significance is Trekking. Best time to visit is Afternoon. Suggested visit duration in hours is 3.0. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-puducherry-puducherry-promenade-beach",
+    "city": "Puducherry",
+    "state": "Puducherry",
+    "country": "India",
+    "type": "tourism",
+    "title": "Promenade Beach Tourism Guide",
+    "content": "Promenade Beach is a Beach in Puducherry, Puducherry. Its significance is Recreational. Best time to visit is Morning. Suggested visit duration in hours is 1.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-puducherry-auroville-auroville",
+    "city": "Auroville",
+    "state": "Puducherry",
+    "country": "India",
+    "type": "tourism",
+    "title": "Auroville Tourism Guide",
+    "content": "Auroville is a Township in Auroville, Puducherry. Its significance is Cultural. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.1. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-puducherry-puducherry-paradise-beach",
+    "city": "Puducherry",
+    "state": "Puducherry",
+    "country": "India",
+    "type": "tourism",
+    "title": "Paradise Beach Tourism Guide",
+    "content": "Paradise Beach is a Beach in Puducherry, Puducherry. Its significance is Recreational. Best time to visit is Morning. Suggested visit duration in hours is 1.0. Google review rating is 4.5. Entrance fee in INR is 200."
+  },
+  {
+    "id": "kaggle-tourism-andaman-and-nicobar-islands-port-blair-cellular-jail",
+    "city": "Port Blair",
+    "state": "Andaman and Nicobar Islands",
+    "country": "India",
+    "type": "tourism",
+    "title": "Cellular Jail Tourism Guide",
+    "content": "Cellular Jail is a Landmark in Port Blair, Andaman and Nicobar Islands. Its significance is Historical. Best time to visit is Afternoon. Suggested visit duration in hours is 1.5. Google review rating is 4.7. Entrance fee in INR is 30. Weekly off is Monday."
+  },
+  {
+    "id": "kaggle-tourism-andaman-and-nicobar-islands-havelock-island-radhanagar-beach",
+    "city": "Havelock Island",
+    "state": "Andaman and Nicobar Islands",
+    "country": "India",
+    "type": "tourism",
+    "title": "Radhanagar Beach Tourism Guide",
+    "content": "Radhanagar Beach is a Beach in Havelock Island, Andaman and Nicobar Islands. Its significance is Nature. Best time to visit is Morning. Suggested visit duration in hours is 1.0. Google review rating is 4.8. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-andaman-and-nicobar-islands-neil-island-bharatpur-beach",
+    "city": "Neil Island",
+    "state": "Andaman and Nicobar Islands",
+    "country": "India",
+    "type": "tourism",
+    "title": "Bharatpur Beach Tourism Guide",
+    "content": "Bharatpur Beach is a Beach in Neil Island, Andaman and Nicobar Islands. Its significance is Nature. Best time to visit is Morning. Suggested visit duration in hours is 1.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-andaman-and-nicobar-islands-baratang-island-limestone-caves",
+    "city": "Baratang Island",
+    "state": "Andaman and Nicobar Islands",
+    "country": "India",
+    "type": "tourism",
+    "title": "Limestone Caves Tourism Guide",
+    "content": "Limestone Caves is a Natural Feature in Baratang Island, Andaman and Nicobar Islands. Its significance is Nature. Best time to visit is Morning. Suggested visit duration in hours is 1.5. Google review rating is 4.4. Entrance fee in INR is 250."
+  },
+  {
+    "id": "kaggle-tourism-daman-and-diu-diu-naida-caves",
+    "city": "Diu",
+    "state": "Daman and Diu",
+    "country": "India",
+    "type": "tourism",
+    "title": "Naida Caves Tourism Guide",
+    "content": "Naida Caves is a Cave in Diu, Daman and Diu. Its significance is Nature. Best time to visit is Afternoon. Suggested visit duration in hours is 1.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-daman-and-diu-diu-diu-fort",
+    "city": "Diu",
+    "state": "Daman and Diu",
+    "country": "India",
+    "type": "tourism",
+    "title": "Diu Fort Tourism Guide",
+    "content": "Diu Fort is a Fort in Diu, Daman and Diu. Its significance is Historical. Best time to visit is Afternoon. Suggested visit duration in hours is 1.5. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-jharkhand-deoghar-baba-baidyanath-temple",
+    "city": "Deoghar",
+    "state": "Jharkhand",
+    "country": "India",
+    "type": "tourism",
+    "title": "Baba Baidyanath Temple Tourism Guide",
+    "content": "Baba Baidyanath Temple is a Temple in Deoghar, Jharkhand. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-jharkhand-ranchi-pahari-mandir",
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "country": "India",
+    "type": "tourism",
+    "title": "Pahari Mandir Tourism Guide",
+    "content": "Pahari Mandir is a Temple in Ranchi, Jharkhand. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-bihar-bodh-gaya-mahabodhi-temple",
+    "city": "Bodh Gaya",
+    "state": "Bihar",
+    "country": "India",
+    "type": "tourism",
+    "title": "Mahabodhi Temple Tourism Guide",
+    "content": "Mahabodhi Temple is a Temple in Bodh Gaya, Bihar. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.5. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-bihar-patna-sanjay-gandhi-biological-park",
+    "city": "Patna",
+    "state": "Bihar",
+    "country": "India",
+    "type": "tourism",
+    "title": "Sanjay Gandhi Biological Park Tourism Guide",
+    "content": "Sanjay Gandhi Biological Park is a Zoo in Patna, Bihar. Its significance is Wildlife. Best time to visit is All. Suggested visit duration in hours is 2.5. Google review rating is 4.3. Entrance fee in INR is 30."
+  },
+  {
+    "id": "kaggle-tourism-bihar-patna-takhat-shri-harimandir-ji-patna-sahib",
+    "city": "Patna",
+    "state": "Bihar",
+    "country": "India",
+    "type": "tourism",
+    "title": "Takhat Shri Harimandir Ji Patna Sahib Tourism Guide",
+    "content": "Takhat Shri Harimandir Ji Patna Sahib is a Gurudwara in Patna, Bihar. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-bihar-patna-budhha-smriti-park",
+    "city": "Patna",
+    "state": "Bihar",
+    "country": "India",
+    "type": "tourism",
+    "title": "Budhha Smriti Park Tourism Guide",
+    "content": "Budhha Smriti Park is a Park in Patna, Bihar. Its significance is Cultural. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.4. Entrance fee in INR is 10."
+  },
+  {
+    "id": "kaggle-tourism-haryana-gurugram-kingdom-of-dreams",
+    "city": "Gurugram",
+    "state": "Haryana",
+    "country": "India",
+    "type": "tourism",
+    "title": "Kingdom of Dreams Tourism Guide",
+    "content": "Kingdom of Dreams is a Entertainment in Gurugram, Haryana. Its significance is Entertainment. Best time to visit is Afternoon. Suggested visit duration in hours is 3.0. Google review rating is 4.4. Entrance fee in INR is 1100. Weekly off is Monday."
+  },
+  {
+    "id": "kaggle-tourism-haryana-gurugram-ambience-mall",
+    "city": "Gurugram",
+    "state": "Haryana",
+    "country": "India",
+    "type": "tourism",
+    "title": "Ambience Mall Tourism Guide",
+    "content": "Ambience Mall is a Mall in Gurugram, Haryana. Its significance is Shopping. Best time to visit is Afternoon. Suggested visit duration in hours is 2.0. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-haryana-gurugram-dlf-cyberhub",
+    "city": "Gurugram",
+    "state": "Haryana",
+    "country": "India",
+    "type": "tourism",
+    "title": "DLF CyberHub Tourism Guide",
+    "content": "DLF CyberHub is a Commercial Complex in Gurugram, Haryana. Its significance is Entertainment. Best time to visit is Afternoon. Suggested visit duration in hours is 2.0. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-delhi-new-delhi-gurudwara-bangla-sahib",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "type": "tourism",
+    "title": "Gurudwara Bangla Sahib Tourism Guide",
+    "content": "Gurudwara Bangla Sahib is a Gurudwara in New Delhi, Delhi. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.8. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-uttarakhand-kedarnath-kedarnath",
+    "city": "Kedarnath",
+    "state": "Uttarakhand",
+    "country": "India",
+    "type": "tourism",
+    "title": "Kedarnath Tourism Guide",
+    "content": "Kedarnath is a Temple in Kedarnath, Uttarakhand. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.5. Google review rating is 4.8. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-uttar-pradesh-noida-dlf-mall-of-india",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "DLF Mall of India Tourism Guide",
+    "content": "DLF Mall of India is a Mall in Noida, Uttar Pradesh. Its significance is Shopping. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-uttar-pradesh-greater-noida-the-grand-venice-mall",
+    "city": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "The Grand Venice Mall Tourism Guide",
+    "content": "The Grand Venice Mall is a Mall in Greater Noida, Uttar Pradesh. Its significance is Shopping. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.2. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-karnataka-bengaluru-wonderla-amusement-park",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "type": "tourism",
+    "title": "Wonderla Amusement Park Tourism Guide",
+    "content": "Wonderla Amusement Park is a Amusement Park in Bengaluru, Karnataka. Its significance is Entertainment. Best time to visit is All. Suggested visit duration in hours is 4.0. Google review rating is 4.5. Entrance fee in INR is 890."
+  },
+  {
+    "id": "kaggle-tourism-odisha-bhubaneswar-nandankanan-zoological-park",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "country": "India",
+    "type": "tourism",
+    "title": "Nandankanan Zoological Park Tourism Guide",
+    "content": "Nandankanan Zoological Park is a Zoo in Bhubaneswar, Odisha. Its significance is Wildlife. Best time to visit is Afternoon. Suggested visit duration in hours is 3.0. Google review rating is 4.4. Entrance fee in INR is 50. Weekly off is Monday."
+  },
+  {
+    "id": "kaggle-tourism-karnataka-bengaluru-orion-mall",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "type": "tourism",
+    "title": "Orion Mall Tourism Guide",
+    "content": "Orion Mall is a Mall in Bengaluru, Karnataka. Its significance is Shopping. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-telangana-hyderabad-inorbit-mall-cyberabad",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "type": "tourism",
+    "title": "Inorbit Mall Cyberabad Tourism Guide",
+    "content": "Inorbit Mall Cyberabad is a Mall in Hyderabad, Telangana. Its significance is Shopping. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-delhi-new-delhi-jama-masjid",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "type": "tourism",
+    "title": "Jama Masjid Tourism Guide",
+    "content": "Jama Masjid is a Mosque in New Delhi, Delhi. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 1.0. Google review rating is 4.5. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-tamil-nadu-rameswaram-ramanathaswamy-temple",
+    "city": "Rameswaram",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "type": "tourism",
+    "title": "Ramanathaswamy Temple Tourism Guide",
+    "content": "Ramanathaswamy Temple is a Temple in Rameswaram, Tamil Nadu. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 1.5. Google review rating is 4.7. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-uttar-pradesh-greater-noida-buddh-international-circuit",
+    "city": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Buddh International Circuit Tourism Guide",
+    "content": "Buddh International Circuit is a Race Track in Greater Noida, Uttar Pradesh. Its significance is Sports. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.6. Entrance fee in INR is 1500. Weekly off is Sunday."
+  },
+  {
+    "id": "kaggle-tourism-uttar-pradesh-lucknow-phoenix-palassio",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Phoenix Palassio Tourism Guide",
+    "content": "Phoenix Palassio is a Mall in Lucknow, Uttar Pradesh. Its significance is Shopping. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-kerala-kochi-lulu-international-shopping-mall",
+    "city": "Kochi",
+    "state": "Kerala",
+    "country": "India",
+    "type": "tourism",
+    "title": "LuLu International Shopping Mall Tourism Guide",
+    "content": "LuLu International Shopping Mall is a Mall in Kochi, Kerala. Its significance is Shopping. Best time to visit is All. Suggested visit duration in hours is 3.0. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-delhi-new-delhi-rail-museum",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "type": "tourism",
+    "title": "Rail Museum Tourism Guide",
+    "content": "Rail Museum is a Museum in New Delhi, Delhi. Its significance is Cultural. Best time to visit is Morning. Suggested visit duration in hours is 2.0. Google review rating is 4.4. Entrance fee in INR is 50. Weekly off is Monday."
+  },
+  {
+    "id": "kaggle-tourism-meghalaya-cherrapunji-living-root-bridge",
+    "city": "Cherrapunji",
+    "state": "Meghalaya",
+    "country": "India",
+    "type": "tourism",
+    "title": "Living Root Bridge Tourism Guide",
+    "content": "Living Root Bridge is a Natural Feature in Cherrapunji, Meghalaya. Its significance is Nature. Best time to visit is Morning. Suggested visit duration in hours is 2.0. Google review rating is 4.6. Entrance fee in INR is 0."
+  },
+  {
+    "id": "kaggle-tourism-gujarat-gandhinagar-akshardham",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "country": "India",
+    "type": "tourism",
+    "title": "Akshardham Tourism Guide",
+    "content": "Akshardham is a Temple in Gandhinagar, Gujarat. Its significance is Religious. Best time to visit is All. Suggested visit duration in hours is 3.0. Google review rating is 4.6. Entrance fee in INR is 0. Weekly off is Monday."
+  },
+  {
+    "id": "kaggle-tourism-uttar-pradesh-agra-agra-fort",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Agra Fort Tourism Guide",
+    "content": "Agra Fort is a Fort in Agra, Uttar Pradesh. Its significance is Historical. Best time to visit is Afternoon. Suggested visit duration in hours is 2.0. Google review rating is 4.5. Entrance fee in INR is 40."
+  },
+  {
+    "id": "kaggle-tourism-madhya-pradesh-bhopal-madhya-pradesh-tribal-museum",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "type": "tourism",
+    "title": "Madhya Pradesh Tribal Museum Tourism Guide",
+    "content": "Madhya Pradesh Tribal Museum is a Museum in Bhopal, Madhya Pradesh. Its significance is Cultural. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.7. Entrance fee in INR is 10. Weekly off is Monday."
+  },
+  {
+    "id": "kaggle-tourism-rajasthan-jaipur-city-palace",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "country": "India",
+    "type": "tourism",
+    "title": "City Palace Tourism Guide",
+    "content": "City Palace is a Palace in Jaipur, Rajasthan. Its significance is Historical. Best time to visit is Morning. Suggested visit duration in hours is 2.0. Google review rating is 4.4. Entrance fee in INR is 200."
+  },
+  {
+    "id": "kaggle-tourism-rajasthan-jaipur-albert-hall-museum",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "country": "India",
+    "type": "tourism",
+    "title": "Albert Hall Museum Tourism Guide",
+    "content": "Albert Hall Museum is a Museum in Jaipur, Rajasthan. Its significance is Historical. Best time to visit is All. Suggested visit duration in hours is 2.0. Google review rating is 4.5. Entrance fee in INR is 200."
+  }
+]

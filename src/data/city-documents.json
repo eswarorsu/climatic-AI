@@ -1,0 +1,164 @@
+[
+  {
+    "id": "bengaluru-tourism",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "type": "tourism",
+    "title": "Bengaluru Tourism Highlights",
+    "content": "Bengaluru is known for Lalbagh Botanical Garden, Cubbon Park, Bengaluru Palace, Vidhana Soudha, ISKCON Temple, and nearby day trips to Nandi Hills. The city is popular for gardens, cafes, technology districts, and mild weather."
+  },
+  {
+    "id": "bengaluru-history",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "type": "history",
+    "title": "Bengaluru History",
+    "content": "Bengaluru grew from a settlement associated with Kempe Gowda in the 16th century into an important military, administrative, educational, and technology center. Its identity blends old pete markets, colonial-era cantonment areas, public gardens, and modern IT corridors."
+  },
+  {
+    "id": "bengaluru-events",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "type": "events",
+    "title": "Bengaluru Events",
+    "content": "Common city events include tech conferences, startup meetups, music festivals, food pop-ups, theatre shows, art exhibitions, running events, and cultural programs around Kannada Rajyotsava and major Indian festivals."
+  },
+  {
+    "id": "mumbai-tourism",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "country": "India",
+    "type": "tourism",
+    "title": "Mumbai Tourism Highlights",
+    "content": "Mumbai tourism includes the Gateway of India, Marine Drive, Chhatrapati Shivaji Maharaj Terminus, Elephanta Caves, Bandra-Worli Sea Link, Juhu Beach, Colaba, art deco architecture, markets, and Bollywood-related attractions."
+  },
+  {
+    "id": "mumbai-history",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "country": "India",
+    "type": "history",
+    "title": "Mumbai History",
+    "content": "Mumbai developed from seven islands into a major port city and financial capital. Its history includes Koli fishing communities, Portuguese and British colonial rule, textile mills, maritime trade, cinema, migration, and independence-era political movements."
+  },
+  {
+    "id": "mumbai-events",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "country": "India",
+    "type": "events",
+    "title": "Mumbai Events",
+    "content": "Major Mumbai events include Ganesh Chaturthi celebrations, film festivals, theatre, art shows, music concerts, marathon events, cricket matches, literature festivals, food events, and business conferences."
+  },
+  {
+    "id": "delhi-tourism",
+    "city": "Delhi",
+    "state": "National Capital Territory of Delhi",
+    "country": "India",
+    "type": "tourism",
+    "title": "Delhi Tourism Highlights",
+    "content": "Delhi attractions include Red Fort, Qutub Minar, Humayun's Tomb, India Gate, Lotus Temple, Akshardham, Jama Masjid, Chandni Chowk, Lodhi Garden, museums, government districts, markets, and food walks."
+  },
+  {
+    "id": "delhi-history",
+    "city": "Delhi",
+    "state": "National Capital Territory of Delhi",
+    "country": "India",
+    "type": "history",
+    "title": "Delhi History",
+    "content": "Delhi has been the seat of several historic cities and empires, including Delhi Sultanate, Mughal, British, and independent India eras. Its monuments, old markets, planned avenues, and administrative institutions reflect layered political and cultural history."
+  },
+  {
+    "id": "delhi-events",
+    "city": "Delhi",
+    "state": "National Capital Territory of Delhi",
+    "country": "India",
+    "type": "events",
+    "title": "Delhi Events",
+    "content": "Delhi events include Republic Day celebrations, book fairs, trade expos, food festivals, theatre, classical music concerts, art exhibitions, political gatherings, university events, and cultural programs across the National Capital Region."
+  },
+  {
+    "id": "chennai-tourism",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "type": "tourism",
+    "title": "Chennai Tourism Highlights",
+    "content": "Chennai is known for Marina Beach, Kapaleeshwarar Temple, Fort St. George, San Thome Basilica, Government Museum, Besant Nagar, classical music venues, filter coffee, and nearby trips to Mahabalipuram and Kanchipuram."
+  },
+  {
+    "id": "chennai-history",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "type": "history",
+    "title": "Chennai History",
+    "content": "Chennai grew around Fort St. George and older temple settlements into a major colonial port, education center, automotive hub, film industry base, and cultural capital known for Carnatic music, Bharatanatyam, and Tamil literary heritage."
+  },
+  {
+    "id": "chennai-events",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "type": "events",
+    "title": "Chennai Events",
+    "content": "Chennai events include the Margazhi music and dance season, temple festivals, book fairs, film events, food festivals, beach runs, college festivals, and technology and automotive industry conferences."
+  },
+  {
+    "id": "kolkata-tourism",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "country": "India",
+    "type": "tourism",
+    "title": "Kolkata Tourism Highlights",
+    "content": "Kolkata attractions include Victoria Memorial, Howrah Bridge, Indian Museum, Dakshineswar Kali Temple, Kalighat, College Street, Park Street, tram routes, riverfront walks, colonial architecture, sweets, and Durga Puja pandals."
+  },
+  {
+    "id": "kolkata-history",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "country": "India",
+    "type": "history",
+    "title": "Kolkata History",
+    "content": "Kolkata was a major colonial capital and intellectual center, associated with trade, education, literature, theatre, political movements, the Bengal Renaissance, printing, art, and independence-era activism."
+  },
+  {
+    "id": "kolkata-events",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "country": "India",
+    "type": "events",
+    "title": "Kolkata Events",
+    "content": "Kolkata events include Durga Puja, book fairs, film festivals, theatre, football matches, classical music, art exhibitions, literary gatherings, food festivals, and cultural programs around Bengali holidays."
+  },
+  {
+    "id": "jaipur-tourism",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "country": "India",
+    "type": "tourism",
+    "title": "Jaipur Tourism Highlights",
+    "content": "Jaipur tourism includes Amber Fort, City Palace, Hawa Mahal, Jantar Mantar, Nahargarh Fort, Jaigarh Fort, bazaars, block printing, gemstones, Rajasthani cuisine, and heritage hotels."
+  },
+  {
+    "id": "jaipur-history",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "country": "India",
+    "type": "history",
+    "title": "Jaipur History",
+    "content": "Jaipur was founded by Sawai Jai Singh II as a planned city with strong links to astronomy, Rajput court culture, trade, crafts, forts, palaces, and urban design. It remains a major heritage and tourism center."
+  },
+  {
+    "id": "jaipur-events",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "country": "India",
+    "type": "events",
+    "title": "Jaipur Events",
+    "content": "Jaipur events include literature festivals, heritage walks, craft fairs, Teej and Gangaur celebrations, folk music and dance, polo events, food festivals, and tourism-focused cultural programs."
+  }
+]

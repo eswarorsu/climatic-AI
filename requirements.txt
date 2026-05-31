@@ -1,0 +1,4 @@
+qdrant-client
+sentence-transformers
+pandas
+kagglehub==0.4.3
