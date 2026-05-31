@@ -33,6 +33,16 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+img,
+svg {
+  max-width: 100%;
+}
+
+input,
+button {
+  min-width: 0;
+}
+
 body::before {
   position: fixed;
   inset: 0;
@@ -61,6 +71,7 @@ a {
 .app-shell {
   min-height: 100vh;
   padding: 34px 20px 140px;
+  overflow-x: hidden;
 }
 
 .workspace {
@@ -152,6 +163,7 @@ a {
   display: grid;
   grid-template-columns: 0.9fr 1.1fr;
   gap: 16px;
+  margin-top: 18px;
   animation: result-enter 420ms ease both;
 }
 
@@ -194,6 +206,7 @@ a {
 .document-context-list h4 {
   margin: 0 0 6px;
   font-size: 0.98rem;
+  overflow-wrap: anywhere;
 }
 
 .search-panel {
@@ -258,6 +271,7 @@ a {
   background: #f8fbff;
   color: var(--accent-strong);
   box-shadow: inset 0 1px 2px rgba(16, 32, 51, 0.05);
+  flex: 0 0 auto;
 }
 
 .attachment-button {
@@ -355,6 +369,7 @@ a {
 .summary-band h2 {
   margin-bottom: 8px;
   font-size: 1.6rem;
+  overflow-wrap: anywhere;
 }
 
 .summary-band p:not(.eyebrow) {
@@ -410,6 +425,7 @@ a {
 .metric-card strong {
   display: block;
   line-height: 1.25;
+  overflow-wrap: anywhere;
 }
 
 .content-grid {
@@ -420,6 +436,7 @@ a {
 
 .panel {
   padding: 22px;
+  min-width: 0;
 }
 
 .panel-title {
@@ -433,6 +450,7 @@ a {
 .panel-title h3 {
   color: var(--foreground);
   font-size: 1.05rem;
+  overflow-wrap: anywhere;
 }
 
 .climate-panel p,
@@ -440,6 +458,7 @@ a {
 .news-item p {
   color: #475467;
   line-height: 1.6;
+  overflow-wrap: anywhere;
 }
 
 .context-list {
@@ -494,6 +513,7 @@ a {
 
 .news-item h4 {
   margin-bottom: 7px;
+  overflow-wrap: anywhere;
 }
 
 .news-item span {
@@ -543,38 +563,112 @@ a {
   .document-results {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
+
+  .search-panel {
+    width: min(760px, calc(100% - 28px));
+  }
+
+  .news-item {
+    display: grid;
+    grid-template-columns: 96px minmax(0, 1fr);
+    gap: 14px;
+  }
+
+  .news-item span {
+    grid-column: 2;
+    margin-left: 0;
+    text-align: left;
+  }
 }
 
 @media (max-width: 640px) {
   .app-shell {
-    padding: 24px 14px 170px;
+    padding: 20px 12px 210px;
+  }
+
+  .intro {
+    min-height: calc(100vh - 245px);
+    margin-bottom: 14px;
+  }
+
+  .intro-with-results {
+    min-height: auto;
+  }
+
+  .brand-row {
+    gap: 10px;
+    margin-bottom: 12px;
+    font-size: 1rem;
+  }
+
+  .brand-mark {
+    width: 86px;
+    height: 86px;
+    border-radius: 20px;
+  }
+
+  .intro h1 {
+    font-size: 1.6rem;
+    line-height: 1.2;
+  }
+
+  .intro p {
+    font-size: 0.88rem;
   }
 
   .search-panel {
-    bottom: 28px;
-    width: calc(100% - 24px);
-    padding: 12px;
-    border-radius: 28px;
+    bottom: max(14px, env(safe-area-inset-bottom));
+    width: calc(100% - 20px);
+    padding: 10px;
+    border-radius: 22px;
   }
 
-  .search-row,
   .metric-grid,
   .content-grid,
   .document-results {
     grid-template-columns: 1fr;
   }
 
-  .search-submit {
-    width: 100%;
+  .search-row {
+    grid-template-columns: 46px minmax(0, 1fr) 46px;
+    gap: 8px;
+  }
+
+  .city-input {
+    min-height: 46px;
+    padding: 0 14px;
+    font-size: 0.92rem;
+    grid-column: 2 / 3;
   }
 
   .attachment-button,
   .clear-attachment {
+    width: 46px;
+    height: 46px;
+  }
+
+  .attachment-button {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  .clear-attachment {
+    grid-column: 3;
+    grid-row: 1;
+  }
+
+  .search-submit {
+    grid-column: 1 / -1;
+    min-height: 46px;
+    min-width: 0;
     width: 100%;
   }
 
   .attachment-name {
+    max-width: 100%;
     margin-left: 0;
+    padding: 0 4px;
+    white-space: normal;
   }
 
   .summary-band,
@@ -593,5 +687,56 @@ a {
     display: block;
     margin-top: 10px;
     text-align: left;
+  }
+
+  .summary-band,
+  .panel {
+    padding: 18px;
+  }
+
+  .summary-band h2 {
+    font-size: 1.28rem;
+  }
+
+  .metric-card {
+    min-height: 86px;
+    padding: 14px;
+  }
+
+  .news-item {
+    padding: 14px;
+  }
+}
+
+@media (max-width: 390px) {
+  .app-shell {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .search-panel {
+    width: calc(100% - 14px);
+  }
+
+  .search-row {
+    grid-template-columns: 42px minmax(0, 1fr) 42px;
+    gap: 7px;
+  }
+
+  .attachment-button,
+  .clear-attachment,
+  .city-input,
+  .search-submit {
+    min-height: 42px;
+  }
+
+  .attachment-button,
+  .clear-attachment {
+    width: 42px;
+    height: 42px;
+  }
+
+  .search-submit span {
+    font-size: 0.9rem;
   }
 }
