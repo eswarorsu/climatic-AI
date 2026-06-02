@@ -82,7 +82,7 @@ export default function Home() {
           method: "POST",
           body: formData,
         });
-        const data = await response.json();
+        const data = await safeParseJSON(response);
 
         if (!response.ok) {
           throw new Error(data.error ?? "Unable to analyze this document.");
@@ -101,7 +101,7 @@ export default function Home() {
         body: JSON.stringify({ city }),
       });
 
-      const data = await response.json();
+      const data = await safeParseJSON(response);
 
       if (!response.ok) {
         throw new Error(data.error ?? "Something went wrong.");
@@ -114,6 +114,18 @@ export default function Home() {
     } finally {
       setLoading(false);
     }
+  }
+
+  async function safeParseJSON(response: Response) {
+    const contentType = response.headers.get("content-type") ?? "";
+    if (!contentType.includes("application/json")) {
+      throw new Error(
+        response.status === 404
+          ? "API endpoint not found. The server may still be deploying."
+          : `Server returned an unexpected response (${response.status}). Please try again.`,
+      );
+    }
+    return response.json();
   }
 
   function handleAttachmentChange(event: ChangeEvent<HTMLInputElement>) {

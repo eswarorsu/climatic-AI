@@ -1,15 +1,10 @@
 import { NextResponse } from "next/server";
-import { join } from "path";
-import { pathToFileURL } from "url";
-import { PDFParse } from "pdf-parse";
 
 export const runtime = "nodejs";
+export const maxDuration = 30;
 
 const maxUploadBytes = 12 * 1024 * 1024;
 const maxAnalysisCharacters = 60000;
-const pdfWorkerUrl = pathToFileURL(
-  join(process.cwd(), "node_modules", "pdfjs-dist", "legacy", "build", "pdf.worker.mjs"),
-).href;
 const stopWords = new Set([
   "about",
   "after",
@@ -111,15 +106,10 @@ async function extractDocumentText(file: File, buffer: Buffer) {
   const fileType = file.type.toLowerCase();
 
   if (fileType.includes("pdf") || fileName.endsWith(".pdf")) {
-    PDFParse.setWorker(pdfWorkerUrl);
-    const parser = new PDFParse({ data: buffer });
-
-    try {
-      const result = await parser.getText();
-      return result.text;
-    } finally {
-      await parser.destroy();
-    }
+    // Dynamic import to avoid issues with Next.js bundling
+    const pdfParse = (await import("pdf-parse")).default;
+    const result = await pdfParse(buffer);
+    return result.text;
   }
 
   if (fileType.startsWith("text/") || fileName.endsWith(".txt") || fileName.endsWith(".md")) {
