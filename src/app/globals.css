@@ -82,7 +82,8 @@ a {
 .intro {
   position: relative;
   display: flex;
-  min-height: calc(100vh - 260px);
+  min-height: 100vh;
+  min-height: 100dvh;
   flex-direction: column;
   align-items: center;
   justify-content: center;
@@ -94,8 +95,10 @@ a {
 }
 
 .intro-with-results {
-  min-height: auto;
+  min-height: auto !important;
+  min-height: auto !important;
   justify-content: flex-start;
+  margin-top: 40px;
 }
 
 .agent-intro {
@@ -109,29 +112,31 @@ a {
 }
 
 .agent-stage {
-  position: relative;
-  display: grid;
-  width: min(720px, 100vw - 32px);
-  height: 420px;
-  place-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+  z-index: 0;
+  display: block;
   overflow: visible;
-  color: #075985;
   perspective: 1200px;
   transform-style: preserve-3d;
 }
 
 .agent-gel-canvas {
-  position: relative;
-  z-index: 1;
-  width: min(600px, 100%);
-  height: 390px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
   display: block;
-  filter:
-    drop-shadow(0 14px 32px rgba(15, 32, 70, 0.12))
-    drop-shadow(0 4px 12px rgba(79, 70, 229, 0.06));
 }
 
 .agent-copy {
+  position: relative;
+  z-index: 10;
   display: grid;
   place-items: center;
   width: min(640px, 100%);
@@ -249,11 +254,17 @@ a {
   opacity: 0;
   transform: translateY(16px) scale(0.98);
   transition: all 0.72s cubic-bezier(0.16, 1, 0.3, 1);
+  position: absolute;
+  visibility: hidden;
+  pointer-events: none;
 }
 
 .intro-with-results .brand-reveal {
   opacity: 1;
   transform: none;
+  position: static;
+  visibility: visible;
+  pointer-events: auto;
 }
 
 .brand-row {
@@ -824,14 +835,13 @@ a {
   }
 
   .agent-stage {
-    width: min(330px, 100vw - 18px);
-    height: 238px;
+    width: 100vw;
+    height: 100vh;
   }
 
-
   .agent-gel-canvas {
-    width: min(320px, 100%);
-    height: 224px;
+    width: 100%;
+    height: 100%;
   }
 
   .agent-copy {
