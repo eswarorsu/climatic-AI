@@ -106,10 +106,10 @@ async function extractDocumentText(file: File, buffer: Buffer) {
   const fileType = file.type.toLowerCase();
 
   if (fileType.includes("pdf") || fileName.endsWith(".pdf")) {
-    // Dynamic import to avoid issues with Next.js bundling
-    const pdfParse = (await import("pdf-parse")).default;
-    const result = await pdfParse(buffer);
-    return result.text;
+    const { extractText, getDocumentProxy } = await import("unpdf");
+    const pdf = await getDocumentProxy(new Uint8Array(buffer));
+    const { text } = await extractText(pdf, { mergePages: true });
+    return text;
   }
 
   if (fileType.startsWith("text/") || fileName.endsWith(".txt") || fileName.endsWith(".md")) {

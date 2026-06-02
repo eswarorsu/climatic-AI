@@ -117,15 +117,16 @@ export default function Home() {
   }
 
   async function safeParseJSON(response: Response) {
-    const contentType = response.headers.get("content-type") ?? "";
-    if (!contentType.includes("application/json")) {
+    const text = await response.text();
+    try {
+      return JSON.parse(text);
+    } catch (caught) {
       throw new Error(
         response.status === 404
           ? "API endpoint not found. The server may still be deploying."
-          : `Server returned an unexpected response (${response.status}). Please try again.`,
+          : `Server returned an unexpected response (Status ${response.status}). Please try again.`
       );
     }
-    return response.json();
   }
 
   function handleAttachmentChange(event: ChangeEvent<HTMLInputElement>) {
