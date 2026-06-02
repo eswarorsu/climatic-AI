@@ -80,25 +80,35 @@ a {
 }
 
 .intro {
-  position: relative;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  height: 100dvh;
   display: flex;
-  min-height: 100vh;
-  min-height: 100dvh;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  max-width: 720px;
-  margin-bottom: 20px;
-  margin-left: auto;
-  margin-right: auto;
+  z-index: 100;
   text-align: center;
+  pointer-events: auto;
 }
 
 .intro-with-results {
-  min-height: auto !important;
+  position: relative !important;
+  top: auto !important;
+  left: auto !important;
+  width: 100% !important;
+  max-width: 720px !important;
+  height: auto !important;
   min-height: auto !important;
   justify-content: flex-start;
   margin-top: 40px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  z-index: 1;
+  pointer-events: auto;
 }
 
 .agent-intro {
@@ -820,12 +830,22 @@ a {
   }
 
   .intro {
-    min-height: calc(100vh - 245px);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    height: 100dvh;
     margin-bottom: 14px;
   }
 
   .intro-with-results {
-    min-height: auto;
+    position: relative !important;
+    top: auto !important;
+    left: auto !important;
+    width: 100% !important;
+    height: auto !important;
+    min-height: auto !important;
   }
 
   .brand-row {
