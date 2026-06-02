@@ -7,6 +7,12 @@ type AgentRequest = {
   city?: string;
 };
 
+type ParsedLocationInput = {
+  city: string;
+  state?: string;
+  original: string;
+};
+
 type GeocodeResult = {
   name: string;
   country?: string;
@@ -22,6 +28,7 @@ type OpenMeteoGeocodeResponse = {
 
 type OpenMeteoWeatherResponse = {
   current?: {
+    time?: string;
     temperature_2m?: number;
     relative_humidity_2m?: number;
     wind_speed_10m?: number;
@@ -31,6 +38,7 @@ type OpenMeteoWeatherResponse = {
   hourly?: {
     time?: string[];
     temperature_2m?: number[];
+    precipitation_probability?: number[];
   };
 };
 
@@ -113,9 +121,10 @@ export async function POST(request: Request) {
   }
 
   try {
-    const location = await geocodeCity(city);
+    const parsedInput = parseLocationInput(city);
+    const location = await geocodeCity(parsedInput);
     const weatherPromise = fetchWeather(location);
-    const newsPromise = fetchNews(location.name, location.admin1, city);
+    const newsPromise = fetchNews(location.name, location.admin1, parsedInput.original);
     const vectorContextPromise = getCityKnowledgeContext(location.name, location.admin1);
     const climatePromise = weatherPromise.then((weather) => {
       return buildClimateProfile(location, weather);
@@ -138,6 +147,9 @@ export async function POST(request: Request) {
       humidity: weather.humidity,
       wind: weather.wind,
       precipitation: weather.precipitation,
+      precipitationProbability: weather.precipitationProbability,
+      observedAt: weather.observedAt,
+      weatherSource: "Open-Meteo",
       climate,
       news,
       vectorContext,
@@ -157,8 +169,21 @@ export async function POST(request: Request) {
   }
 }
 
-async function geocodeCity(city: string): Promise<GeocodeResult> {
-  const searchName = indianCityAliases[city.trim().toLowerCase()] ?? city;
+function parseLocationInput(input: string): ParsedLocationInput {
+  const [cityPart, ...stateParts] = input
+    .split(",")
+    .map((part) => part.trim())
+    .filter(Boolean);
+
+  return {
+    city: cityPart || input.trim(),
+    state: stateParts.join(", ") || undefined,
+    original: input.trim(),
+  };
+}
+
+async function geocodeCity(input: ParsedLocationInput): Promise<GeocodeResult> {
+  const searchName = indianCityAliases[input.city.trim().toLowerCase()] ?? input.city;
   const url = new URL("https://geocoding-api.open-meteo.com/v1/search");
   url.searchParams.set("name", searchName);
   url.searchParams.set("count", "10");
@@ -172,15 +197,31 @@ async function geocodeCity(city: string): Promise<GeocodeResult> {
   }
 
   const data = (await response.json()) as OpenMeteoGeocodeResponse;
-  const location = data.results?.find((result) => {
+  const indianLocations = data.results?.filter((result) => {
     return result.country?.toLowerCase() === "india";
-  });
+  }) ?? [];
+  const location =
+    findStateMatch(indianLocations, input.state) ??
+    indianLocations.find((result) => normalizeText(result.name) === normalizeText(searchName)) ??
+    indianLocations[0];
 
   if (!location) {
-    throw new Error(`I could not find an Indian city named "${city}".`);
+    throw new Error(`I could not find an Indian city named "${input.original}".`);
   }
 
   return location;
+}
+
+function findStateMatch(locations: GeocodeResult[], state?: string) {
+  if (!state) {
+    return undefined;
+  }
+
+  const normalizedState = normalizeText(state);
+
+  return locations.find((location) => {
+    return location.admin1 && normalizeText(location.admin1) === normalizedState;
+  });
 }
 
 async function fetchWeather(location: GeocodeResult) {
@@ -191,7 +232,7 @@ async function fetchWeather(location: GeocodeResult) {
     "current",
     "temperature_2m,relative_humidity_2m,wind_speed_10m,precipitation,weather_code",
   );
-  url.searchParams.set("hourly", "temperature_2m");
+  url.searchParams.set("hourly", "temperature_2m,precipitation_probability");
   url.searchParams.set("timezone", "auto");
 
   const response = await fetch(url, { next: { revalidate: 600 } });
@@ -215,7 +256,24 @@ async function fetchWeather(location: GeocodeResult) {
     humidity: Math.round(current.relative_humidity_2m ?? 0),
     wind: Math.round(current.wind_speed_10m ?? 0),
     precipitation: current.precipitation ?? 0,
+    precipitationProbability: getCurrentPrecipitationProbability(data, current.time),
+    observedAt: current.time,
   };
+}
+
+function getCurrentPrecipitationProbability(data: OpenMeteoWeatherResponse, currentTime?: string) {
+  const times = data.hourly?.time;
+  const probabilities = data.hourly?.precipitation_probability;
+
+  if (!times?.length || !probabilities?.length || !currentTime) {
+    return undefined;
+  }
+
+  const currentHour = currentTime.slice(0, 13);
+  const currentIndex = times.findIndex((time) => time.startsWith(currentHour));
+  const probability = probabilities[currentIndex];
+
+  return Number.isFinite(probability) ? Math.round(probability) : undefined;
 }
 
 async function fetchNews(city: string, state?: string, originalCity?: string) {
